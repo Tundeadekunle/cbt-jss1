@@ -73,11 +73,12 @@ export default function HomePage() {
           {/* Stats */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-20 max-w-4xl mx-auto">
             <div className="bg-white/10 backdrop-blur-md rounded-xl p-6 text-center border border-white/20">
-              <div className="text-3xl font-bold text-white mb-2">70+</div>
+              <div className="text-3xl font-bold text-white mb-2">
+                60</div>
               <div className="text-white/80">Total Questions</div>
             </div>
             <div className="bg-white/10 backdrop-blur-md rounded-xl p-6 text-center border border-white/20">
-              <div className="text-3xl font-bold text-white mb-2">120</div>
+              <div className="text-3xl font-bold text-white mb-2">60</div>
               <div className="text-white/80">Minutes Duration</div>
             </div>
             <div className="bg-white/10 backdrop-blur-md rounded-xl p-6 text-center border border-white/20">
@@ -237,15 +238,15 @@ export default function HomePage() {
                     </div>
                     <p className="text-gray-700"><strong>60 multiple-choice</strong> questions (1 mark each)</p>
                   </div>
-                  <div className="flex items-start space-x-3">
+                  {/* <div className="flex items-start space-x-3">
                     <div className="w-6 h-6 bg-green-100 rounded-full flex items-center justify-center flex-shrink-0 mt-1">
                       <span className="text-green-600 text-sm font-bold">3</span>
                     </div>
                     <p className="text-gray-700"><strong>10 theory</strong> questions (5 marks each)</p>
-                  </div>
+                  </div> */}
                   <div className="flex items-start space-x-3">
                     <div className="w-6 h-6 bg-green-100 rounded-full flex items-center justify-center flex-shrink-0 mt-1">
-                      <span className="text-green-600 text-sm font-bold">4</span>
+                      <span className="text-green-600 text-sm font-bold">3</span>
                     </div>
                     <p className="text-gray-700">Questions auto-disable when time expires</p>
                   </div>
@@ -273,7 +274,7 @@ export default function HomePage() {
             Ready to Begin Your Exam?
           </h2>
           <p className="text-xl text-blue-100 mb-8">
-            Join thousands of students who have successfully completed their examinations through our platform.
+            Join other students who have successfully completed their examinations.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
@@ -335,7 +336,7 @@ export default function HomePage() {
               <h3 className="font-semibold text-white mb-4">Support</h3>
               <ul className="space-y-2">
                 <li><a href="mailto:support@examportal.com" className="text-gray-400 hover:text-white transition-colors">support@mathalintlschool.com</a></li>
-                <li><a href="tel:+1234567890" className="text-gray-400 hover:text-white transition-colors">+1 (234) 567-890</a></li>
+                <li><a href="tel:+1234567890" className="text-gray-400 hover:text-white transition-colors">+234 703 468 7011</a></li>
                 <li><span className="text-gray-400">Mon-Fri: 9AM-6PM</span></li>
               </ul>
             </div>
