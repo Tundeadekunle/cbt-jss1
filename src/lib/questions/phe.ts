@@ -4,7 +4,7 @@ export const pheQuestions: Question[] = [
   {
     id: 1,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Physical fitness primarily helps improve the efficiency of the ___ system.",
     options: [
       "Digestive",
@@ -18,7 +18,7 @@ export const pheQuestions: Question[] = [
   {
     id: 2,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Which of the following is a component of physical fitness?",
     options: [
       "Flexibility",
@@ -32,7 +32,7 @@ export const pheQuestions: Question[] = [
   {
     id: 3,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Regular physical activity reduces the risk of:",
     options: [
       "Obesity",
@@ -46,7 +46,7 @@ export const pheQuestions: Question[] = [
   {
     id: 4,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Strength training mainly improves:",
     options: [
       "Muscular strength",
@@ -60,7 +60,7 @@ export const pheQuestions: Question[] = [
   {
     id: 5,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Cardiovascular exercises mainly work on the:",
     options: [
       "Heart and lungs",
@@ -74,7 +74,7 @@ export const pheQuestions: Question[] = [
   {
     id: 6,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Which is an example of aerobic exercise?",
     options: [
       "Weightlifting",
@@ -88,7 +88,7 @@ export const pheQuestions: Question[] = [
   {
     id: 7,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Which exercise is best for improving flexibility?",
     options: [
       "Sprinting",
@@ -102,7 +102,7 @@ export const pheQuestions: Question[] = [
   {
     id: 8,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Yoga is considered a form of:",
     options: [
       "Aerobic exercise",
@@ -116,7 +116,7 @@ export const pheQuestions: Question[] = [
   {
     id: 9,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "The ability of the body to use oxygen efficiently is:",
     options: [
       "Flexibility",
@@ -130,7 +130,7 @@ export const pheQuestions: Question[] = [
   {
     id: 10,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Which of the following improves balance?",
     options: [
       "Plank",
@@ -144,7 +144,7 @@ export const pheQuestions: Question[] = [
   {
     id: 11,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Warming up helps in:",
     options: [
       "Increasing injury risk",
@@ -158,7 +158,7 @@ export const pheQuestions: Question[] = [
   {
     id: 12,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Cooling down helps to:",
     options: [
       "Increase heart rate quickly",
@@ -172,7 +172,7 @@ export const pheQuestions: Question[] = [
   {
     id: 13,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "A sedentary lifestyle mainly leads to:",
     options: [
       "Good posture",
@@ -186,7 +186,7 @@ export const pheQuestions: Question[] = [
   {
     id: 14,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Anaerobic exercise includes:",
     options: [
       "Long-distance running",
@@ -200,7 +200,7 @@ export const pheQuestions: Question[] = [
   {
     id: 15,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Which exercise is best for strengthening bones?",
     options: [
       "Running",
@@ -214,7 +214,7 @@ export const pheQuestions: Question[] = [
   {
     id: 16,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Skipping primarily improves:",
     options: [
       "Balance",
@@ -228,7 +228,7 @@ export const pheQuestions: Question[] = [
   {
     id: 17,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Physical fitness helps in maintaining:",
     options: [
       "Mental well-being",
@@ -242,7 +242,7 @@ export const pheQuestions: Question[] = [
   {
     id: 18,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "The ability to move joints through full range of motion is:",
     options: [
       "Strength",
@@ -256,7 +256,7 @@ export const pheQuestions: Question[] = [
   {
     id: 19,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Which is not a component of fitness?",
     options: [
       "Agility",
@@ -270,7 +270,7 @@ export const pheQuestions: Question[] = [
   {
     id: 20,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "The exercise that builds core strength is:",
     options: [
       "Cycling",
@@ -284,7 +284,7 @@ export const pheQuestions: Question[] = [
   {
     id: 21,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Personal hygiene helps prevent:",
     options: [
       "Infectious diseases",
@@ -298,7 +298,7 @@ export const pheQuestions: Question[] = [
   {
     id: 22,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Washing hands should last at least:",
     options: [
       "5 seconds",
@@ -312,7 +312,7 @@ export const pheQuestions: Question[] = [
   {
     id: 23,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Brushing teeth should be done:",
     options: [
       "Once a week",
@@ -326,7 +326,7 @@ export const pheQuestions: Question[] = [
   {
     id: 24,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Sanitation mainly refers to:",
     options: [
       "Clean water and waste disposal",
@@ -340,7 +340,7 @@ export const pheQuestions: Question[] = [
   {
     id: 25,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Lack of sanitation leads to:",
     options: [
       "Increased immunity",
@@ -354,7 +354,7 @@ export const pheQuestions: Question[] = [
   {
     id: 26,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Bathing regularly helps remove:",
     options: [
       "Sweat and germs",
@@ -368,7 +368,7 @@ export const pheQuestions: Question[] = [
   {
     id: 27,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Which of the following prevents body odour?",
     options: [
       "Not bathing",
@@ -382,7 +382,7 @@ export const pheQuestions: Question[] = [
   {
     id: 28,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Safe drinking water must be:",
     options: [
       "Polluted",
@@ -396,7 +396,7 @@ export const pheQuestions: Question[] = [
   {
     id: 29,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "The main cause of diarrheal diseases is:",
     options: [
       "Clean water",
@@ -410,7 +410,7 @@ export const pheQuestions: Question[] = [
   {
     id: 30,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Nail hygiene prevents:",
     options: [
       "Headache",
@@ -424,7 +424,7 @@ export const pheQuestions: Question[] = [
   {
     id: 31,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Using a handkerchief while coughing helps prevent:",
     options: [
       "Social interaction",
@@ -438,7 +438,7 @@ export const pheQuestions: Question[] = [
   {
     id: 32,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Toilet waste should be disposed through:",
     options: [
       "Open fields",
@@ -452,7 +452,7 @@ export const pheQuestions: Question[] = [
   {
     id: 33,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Garbage segregation helps in:",
     options: [
       "Waste management",
@@ -466,7 +466,7 @@ export const pheQuestions: Question[] = [
   {
     id: 34,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Which is a good hygiene practice?",
     options: [
       "Sharing combs",
@@ -480,7 +480,7 @@ export const pheQuestions: Question[] = [
   {
     id: 35,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Sanitation is important for:",
     options: [
       "Disease control",
@@ -494,7 +494,7 @@ export const pheQuestions: Question[] = [
   {
     id: 36,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Mosquito breeding occurs in:",
     options: [
       "Clean flowing water",
@@ -508,7 +508,7 @@ export const pheQuestions: Question[] = [
   {
     id: 37,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Oral hygiene prevents:",
     options: [
       "Bone fractures",
@@ -522,7 +522,7 @@ export const pheQuestions: Question[] = [
   {
     id: 38,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Personal hygiene includes:",
     options: [
       "Bathing",
@@ -536,7 +536,7 @@ export const pheQuestions: Question[] = [
   {
     id: 39,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Which disease spreads due to poor sanitation?",
     options: [
       "Diabetes",
@@ -550,7 +550,7 @@ export const pheQuestions: Question[] = [
   {
     id: 40,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Wastewater treatment helps in:",
     options: [
       "Increasing pollution",
@@ -564,7 +564,7 @@ export const pheQuestions: Question[] = [
   {
     id: 41,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Nutrients are substances that:",
     options: [
       "Provide energy",
@@ -578,7 +578,7 @@ export const pheQuestions: Question[] = [
   {
     id: 42,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Carbohydrates mainly provide:",
     options: [
       "Energy",
@@ -592,7 +592,7 @@ export const pheQuestions: Question[] = [
   {
     id: 43,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Proteins are required for:",
     options: [
       "Growth and repair",
@@ -606,7 +606,7 @@ export const pheQuestions: Question[] = [
   {
     id: 44,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Fats provide:",
     options: [
       "Quick energy",
@@ -620,7 +620,7 @@ export const pheQuestions: Question[] = [
   {
     id: 45,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Which is a protective food?",
     options: [
       "Fruits and vegetables",
@@ -634,7 +634,7 @@ export const pheQuestions: Question[] = [
   {
     id: 46,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Vitamin C is mainly found in:",
     options: [
       "Lemon and orange",
@@ -648,7 +648,7 @@ export const pheQuestions: Question[] = [
   {
     id: 47,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Milk is a good source of:",
     options: [
       "Calcium",
@@ -662,7 +662,7 @@ export const pheQuestions: Question[] = [
   {
     id: 48,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Roughage helps in:",
     options: [
       "Digestion",
@@ -676,7 +676,7 @@ export const pheQuestions: Question[] = [
   {
     id: 49,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Iron deficiency leads to:",
     options: [
       "Diabetes",
@@ -690,7 +690,7 @@ export const pheQuestions: Question[] = [
   {
     id: 50,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "A balanced diet includes:",
     options: [
       "Only fats",
@@ -704,7 +704,7 @@ export const pheQuestions: Question[] = [
   {
     id: 51,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Which of the following is a carbohydrate-rich food?",
     options: [
       "Rice",
@@ -718,7 +718,7 @@ export const pheQuestions: Question[] = [
   {
     id: 52,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Body-building foods are:",
     options: [
       "Fats",
@@ -732,7 +732,7 @@ export const pheQuestions: Question[] = [
   {
     id: 53,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Which vitamin is essential for vision?",
     options: [
       "Vitamin A",
@@ -746,7 +746,7 @@ export const pheQuestions: Question[] = [
   {
     id: 54,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Which mineral helps build strong bones and teeth?",
     options: [
       "Iron",
@@ -760,7 +760,7 @@ export const pheQuestions: Question[] = [
   {
     id: 55,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "The deficiency of iodine causes:",
     options: [
       "Anaemia",
@@ -774,7 +774,7 @@ export const pheQuestions: Question[] = [
   {
     id: 56,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Fruits are rich in:",
     options: [
       "Vitamins and fibre",
@@ -788,7 +788,7 @@ export const pheQuestions: Question[] = [
   {
     id: 57,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "A diet high in junk food may cause:",
     options: [
       "Good health",
@@ -802,7 +802,7 @@ export const pheQuestions: Question[] = [
   {
     id: 58,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Drinking enough water helps maintain:",
     options: [
       "Hydration",
@@ -816,7 +816,7 @@ export const pheQuestions: Question[] = [
   {
     id: 59,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "Vitamin D is mainly obtained from:",
     options: [
       "Sunlight",
@@ -830,7 +830,7 @@ export const pheQuestions: Question[] = [
   {
     id: 60,
     type: 'multiple-choice',
-    subject: 'physical and health education',
+    subject: 'phe',
     question: "The best example of a balanced meal is:",
     options: [
       "Only fried food",
