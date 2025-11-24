@@ -1,845 +1,844 @@
 import { Question } from '@/types';
 
 export const businessQuestions: Question[] = [
-  // Section A: Multiple Choice Questions (60 Questions)
   {
     id: 1,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "History is the study of ______.",
+    subject: 'business',
+    question: "Business Studies is the study of _______.",
     options: [
-      "the past events",
-      "the future",
-      "mathematics",
-      "science"
+      "plants and animals",
+      "buying and selling activities",
+      "drawing and painting",
+      "cooking and baking"
     ],
-    correctAnswer: "the past events",
+    correctAnswer: "buying and selling activities",
     marks: 1
   },
   {
     id: 2,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The word 'history' comes from the Greek word 'Historia' meaning ______.",
+    subject: 'business',
+    question: "Which of the following is not a part of Business Studies?",
     options: [
-      "story",
-      "inquiry",
-      "record",
-      "tradition"
+      "Office practice",
+      "Commerce",
+      "Home economics",
+      "Book-keeping"
     ],
-    correctAnswer: "inquiry",
+    correctAnswer: "Home economics",
     marks: 1
   },
   {
     id: 3,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "One of the sources of history is ______.",
+    subject: 'business',
+    question: "The main aim of studying Business Studies is to ______.",
     options: [
-      "songs",
-      "oral tradition",
-      "magic",
-      "imagination"
+      "become a doctor",
+      "learn how to manage business activities",
+      "learn how to play football",
+      "become a musician"
     ],
-    correctAnswer: "oral tradition",
+    correctAnswer: "learn how to manage business activities",
     marks: 1
   },
   {
     id: 4,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Written sources of history include ______.",
+    subject: 'business',
+    question: "Business Studies helps students to become ______.",
     options: [
-      "folktales",
-      "textbooks",
-      "proverbs",
-      "carvings"
+      "farmers only",
+      "responsible citizens",
+      "business-minded individuals",
+      "both B and C"
     ],
-    correctAnswer: "textbooks",
+    correctAnswer: "both B and C",
     marks: 1
   },
   {
     id: 5,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Archaeology deals with ______.",
+    subject: 'business',
+    question: "Which of these is a branch of Business Studies?",
     options: [
-      "study of birds",
-      "study of human past through remains",
-      "study of stars",
-      "study of weather"
+      "Commerce",
+      "Book-keeping",
+      "Office Practice",
+      "All of the above"
     ],
-    correctAnswer: "study of human past through remains",
+    correctAnswer: "All of the above",
     marks: 1
   },
   {
     id: 6,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Oral tradition means history passed down by ______.",
+    subject: 'business',
+    question: "The buying and selling of goods and services is called ______.",
     options: [
-      "writing",
-      "speaking",
-      "acting",
-      "dancing"
+      "Production",
+      "Commerce",
+      "Agriculture",
+      "Transportation"
     ],
-    correctAnswer: "speaking",
+    correctAnswer: "Commerce",
     marks: 1
   },
   {
     id: 7,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Which of the following is NOT a source of history?",
+    subject: 'business',
+    question: "The study of how records of money are kept in business is known as ______.",
     options: [
-      "Archaeology",
-      "Oral tradition",
-      "Myths",
-      "Cooking"
+      "Shorthand",
+      "Book-keeping",
+      "Typewriting",
+      "Commerce"
     ],
-    correctAnswer: "Cooking",
+    correctAnswer: "Book-keeping",
     marks: 1
   },
   {
     id: 8,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Museum is a place where ______ are kept.",
+    subject: 'business',
+    question: "The study of office work and how it is done is called ______.",
     options: [
-      "animals",
-      "historical objects",
-      "cars",
-      "soldiers"
+      "Office Practice",
+      "Commerce",
+      "Book-keeping",
+      "Agriculture"
     ],
-    correctAnswer: "historical objects",
+    correctAnswer: "Office Practice",
     marks: 1
   },
   {
     id: 9,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The people who study and write about past events are called ______.",
+    subject: 'business',
+    question: "One of the importance of Business Studies is that it teaches students how to ______.",
     options: [
-      "historians",
-      "politicians",
-      "artists",
-      "teachers"
+      "run a business effectively",
+      "repair cars",
+      "cook food",
+      "dance"
     ],
-    correctAnswer: "historians",
+    correctAnswer: "run a business effectively",
     marks: 1
   },
   {
     id: 10,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "One importance of studying history is ______.",
+    subject: 'business',
+    question: "The person who starts and manages a business is called a(n) ______.",
     options: [
-      "to know our past",
-      "to forget our culture",
-      "to make us proud",
-      "to learn science"
+      "teacher",
+      "entrepreneur",
+      "accountant",
+      "secretary"
     ],
-    correctAnswer: "to know our past",
+    correctAnswer: "entrepreneur",
     marks: 1
   },
   {
     id: 11,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The earliest people to live in Nigeria were ______.",
+    subject: 'business',
+    question: "Business Studies prepares students for ______ life.",
     options: [
-      "Nok people",
-      "hunters and gatherers",
-      "farmers",
-      "traders"
+      "spiritual",
+      "political",
+      "economic",
+      "cultural"
     ],
-    correctAnswer: "hunters and gatherers",
+    correctAnswer: "economic",
     marks: 1
   },
   {
     id: 12,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Early people lived in ______ shelters.",
+    subject: 'business',
+    question: "Business Studies teaches ______ skills.",
     options: [
-      "mud houses",
-      "caves",
-      "mansions",
-      "flats"
+      "writing and communication",
+      "business and vocational",
+      "entertainment",
+      "physical education"
     ],
-    correctAnswer: "caves",
+    correctAnswer: "business and vocational",
     marks: 1
   },
   {
     id: 13,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Early people discovered fire by ______.",
+    subject: 'business',
+    question: "The act of taking notes quickly using symbols is called ______.",
     options: [
-      "using stones",
-      "electricity",
-      "gas",
-      "wood"
+      "Book-keeping",
+      "Shorthand",
+      "Typing",
+      "Reading"
     ],
-    correctAnswer: "using stones",
+    correctAnswer: "Shorthand",
     marks: 1
   },
   {
     id: 14,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Early people used stones and bones to make ______.",
+    subject: 'business',
+    question: "Typewriting is used mainly for ______.",
     options: [
-      "toys",
-      "tools",
-      "food",
-      "clothes"
+      "making designs",
+      "producing written documents",
+      "drawing shapes",
+      "playing games"
     ],
-    correctAnswer: "tools",
+    correctAnswer: "producing written documents",
     marks: 1
   },
   {
     id: 15,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The discovery of fire helped early people to ______.",
+    subject: 'business',
+    question: "The study of Business Studies helps students to become ______ in future.",
     options: [
-      "travel",
-      "cook food",
-      "swim",
-      "sing"
+      "civil servants",
+      "self-employed",
+      "farmers only",
+      "singers"
     ],
-    correctAnswer: "cook food",
+    correctAnswer: "self-employed",
     marks: 1
   },
   {
     id: 16,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Early people were also known as ______.",
+    subject: 'business',
+    question: "An office is a place where ______.",
     options: [
-      "modern men",
-      "primitive men",
-      "educated men",
-      "wise men"
+      "goods are sold",
+      "records are kept and business activities are controlled",
+      "people sleep",
+      "food is cooked"
     ],
-    correctAnswer: "primitive men",
+    correctAnswer: "records are kept and business activities are controlled",
     marks: 1
   },
   {
     id: 17,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The earliest occupation of man was ______.",
+    subject: 'business',
+    question: "The main purpose of an office is to ______.",
     options: [
-      "farming",
-      "hunting and gathering",
-      "teaching",
-      "trading"
+      "keep animals",
+      "keep records and process information",
+      "play games",
+      "store food"
     ],
-    correctAnswer: "hunting and gathering",
+    correctAnswer: "keep records and process information",
     marks: 1
   },
   {
     id: 18,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Early people later settled because they began ______.",
+    subject: 'business',
+    question: "Which of the following is a type of office?",
     options: [
-      "to farm",
-      "to travel",
-      "to fight",
-      "to dance"
+      "Big office and small office",
+      "Home office and school office",
+      "Main office and side office",
+      "Modern office and traditional office"
     ],
-    correctAnswer: "to farm",
+    correctAnswer: "Big office and small office",
     marks: 1
   },
   {
     id: 19,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Early settlements were usually near ______.",
+    subject: 'business',
+    question: "A large office is usually found in ______.",
     options: [
-      "markets",
-      "rivers",
-      "schools",
-      "mountains"
+      "a village market",
+      "a big organization",
+      "a classroom",
+      "a church"
     ],
-    correctAnswer: "rivers",
+    correctAnswer: "a big organization",
     marks: 1
   },
   {
     id: 20,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "One of the characteristics of early people was ______.",
+    subject: 'business',
+    question: "A small office is usually managed by ______.",
     options: [
-      "use of metal",
-      "use of simple tools",
-      "use of machines",
-      "use of engines"
+      "many workers",
+      "one or two people",
+      "the government",
+      "a group of students"
     ],
-    correctAnswer: "use of simple tools",
+    correctAnswer: "one or two people",
     marks: 1
   },
   {
     id: 21,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Nok culture was first discovered in ______.",
+    subject: 'business',
+    question: "One of the functions of an office is ______.",
     options: [
-      "Kano State",
-      "Kaduna State",
-      "Plateau State",
-      "Benue State"
+      "watching television",
+      "receiving and sending information",
+      "selling goods",
+      "sleeping"
     ],
-    correctAnswer: "Kaduna State",
+    correctAnswer: "receiving and sending information",
     marks: 1
   },
   {
     id: 22,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The name Nok came from a village in ______.",
+    subject: 'business',
+    question: "The office helps management to make decisions through ______.",
     options: [
-      "Jos area",
-      "Kaduna",
-      "Minna",
-      "Ilorin"
+      "entertainment",
+      "accurate records and reports",
+      "guessing",
+      "storytelling"
     ],
-    correctAnswer: "Jos area",
+    correctAnswer: "accurate records and reports",
     marks: 1
   },
   {
     id: 23,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Nok people were famous for their ______.",
+    subject: 'business',
+    question: "Which of the following is an example of office equipment?",
     options: [
-      "terracotta works",
-      "wood carvings",
-      "drawings",
-      "music"
+      "Table and chair",
+      "Stove",
+      "Bed",
+      "Blackboard"
     ],
-    correctAnswer: "terracotta works",
+    correctAnswer: "Table and chair",
     marks: 1
   },
   {
     id: 24,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Nok culture existed about ______ years ago.",
+    subject: 'business',
+    question: "The department that receives visitors in an office is called the ______.",
     options: [
-      "100 years",
-      "2,000 years",
-      "500 years",
-      "5 years"
+      "library",
+      "reception",
+      "classroom",
+      "workshop"
     ],
-    correctAnswer: "2,000 years",
+    correctAnswer: "reception",
     marks: 1
   },
   {
     id: 25,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Nok people were among the first to use ______ in West Africa.",
+    subject: 'business',
+    question: "The process of keeping written information for future reference is called ______.",
     options: [
-      "iron",
-      "gold",
-      "wood",
-      "copper"
+      "recording",
+      "reading",
+      "drawing",
+      "decoration"
     ],
-    correctAnswer: "iron",
+    correctAnswer: "recording",
     marks: 1
   },
   {
     id: 26,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Archaeologists discovered Nok culture through ______.",
+    subject: 'business',
+    question: "The part of the office that handles letters coming in and going out is called ______.",
     options: [
-      "oral stories",
-      "objects buried in the ground",
-      "songs",
-      "myths"
+      "typing pool",
+      "mail room",
+      "reception",
+      "store"
     ],
-    correctAnswer: "objects buried in the ground",
+    correctAnswer: "mail room",
     marks: 1
   },
   {
     id: 27,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Nok sculptures were mainly made of ______.",
+    subject: 'business',
+    question: "A secretary works mainly in ______.",
     options: [
-      "stone",
-      "clay",
-      "wood",
-      "bronze"
+      "the classroom",
+      "the office",
+      "the kitchen",
+      "the field"
     ],
-    correctAnswer: "clay",
+    correctAnswer: "the office",
     marks: 1
   },
   {
     id: 28,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The discovery of Nok culture helped to understand Nigeria's ______.",
+    subject: 'business',
+    question: "The office helps to control and coordinate ______.",
     options: [
-      "ancient civilization",
-      "politics",
-      "religion",
-      "geography"
+      "home activities",
+      "business activities",
+      "church activities",
+      "school lessons"
     ],
-    correctAnswer: "ancient civilization",
+    correctAnswer: "business activities",
     marks: 1
   },
   {
     id: 29,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Nok people were mainly ______.",
+    subject: 'business',
+    question: "The person who heads an office is called a ______.",
     options: [
-      "traders",
-      "farmers and blacksmiths",
-      "kings",
-      "teachers"
+      "teacher",
+      "manager",
+      "tailor",
+      "mechanic"
     ],
-    correctAnswer: "farmers and blacksmiths",
+    correctAnswer: "manager",
     marks: 1
   },
   {
     id: 30,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Nok terracotta figures were often shaped like ______.",
+    subject: 'business',
+    question: "The main types of office are ______.",
     options: [
-      "animals and humans",
-      "cars",
-      "trees",
-      "house"
+      "large and small offices",
+      "old and new offices",
+      "government and private offices",
+      "male and female offices"
     ],
-    correctAnswer: "animals and humans",
+    correctAnswer: "large and small offices",
     marks: 1
   },
   {
     id: 31,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Benin Kingdom was located in present-day ______.",
+    subject: 'business',
+    question: "One of the functions of an office is to store ______.",
     options: [
-      "Edo State",
-      "Lagos State",
-      "Kwara State",
-      "Ogun State"
+      "people",
+      "records and information",
+      "food",
+      "vehicles"
     ],
-    correctAnswer: "Edo State",
+    correctAnswer: "records and information",
     marks: 1
   },
   {
     id: 32,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The ruler of Benin was called the ______.",
+    subject: 'business',
+    question: "The office that deals with payments and money matters is the ______ department.",
     options: [
-      "Oba",
-      "Emir",
-      "King",
-      "Chief"
+      "accounts",
+      "personnel",
+      "mail room",
+      "typing pool"
     ],
-    correctAnswer: "Oba",
+    correctAnswer: "accounts",
     marks: 1
   },
   {
     id: 33,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Oyo Empire was founded by the ______.",
+    subject: 'business',
+    question: "A place where letters and files are kept for reference is called a ______.",
     options: [
-      "Yoruba people",
-      "Hausa people",
-      "Igbo people",
-      "Tiv people"
+      "restaurant",
+      "store",
+      "filing cabinet",
+      "cupboard"
     ],
-    correctAnswer: "Yoruba people",
+    correctAnswer: "filing cabinet",
     marks: 1
   },
   {
     id: 34,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The head of Oyo Empire was called the ______.",
+    subject: 'business',
+    question: "Which of the following is not a function of an office?",
     options: [
-      "Alaafin",
-      "Oba",
-      "Emir",
-      "Sarki"
+      "Keeping records",
+      "Receiving and sending messages",
+      "Playing games",
+      "Providing information"
     ],
-    correctAnswer: "Alaafin",
+    correctAnswer: "Playing games",
     marks: 1
   },
   {
     id: 35,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Benin people were famous for their ______.",
+    subject: 'business',
+    question: "The office serves as the ______ of a business.",
     options: [
-      "bronze works",
-      "songs",
-      "farming",
-      "fishing"
+      "body",
+      "brain",
+      "hand",
+      "leg"
     ],
-    correctAnswer: "bronze works",
+    correctAnswer: "brain",
     marks: 1
   },
   {
     id: 36,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Oyo Empire was known for its strong ______.",
+    subject: 'business',
+    question: "An occupation is a job or work that people do to ______.",
     options: [
-      "army",
-      "market",
-      "music",
-      "sea"
+      "play games",
+      "earn a living",
+      "travel around",
+      "rest at home"
     ],
-    correctAnswer: "army",
+    correctAnswer: "earn a living",
     marks: 1
   },
   {
     id: 37,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The council of chiefs in Oyo was called the ______.",
+    subject: 'business',
+    question: "The main reason why people engage in occupation is to ______.",
     options: [
-      "Oyomesi",
-      "Ogboni",
-      "Senate",
-      "Emirate"
+      "waste time",
+      "get money and meet their needs",
+      "make friends",
+      "become famous"
     ],
-    correctAnswer: "Oyomesi",
+    correctAnswer: "get money and meet their needs",
     marks: 1
   },
   {
     id: 38,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Benin Kingdom traded with the ______.",
+    subject: 'business',
+    question: "Which of the following is an example of a skilled occupation?",
     options: [
-      "Europeans",
-      "Chinese",
-      "Indians",
-      "Arabs"
+      "Teaching",
+      "Farming",
+      "Street sweeping",
+      "Trading"
     ],
-    correctAnswer: "Europeans",
+    correctAnswer: "Teaching",
     marks: 1
   },
   {
     id: 39,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Oyo Empire declined because of ______.",
+    subject: 'business',
+    question: "Which of these is a primary occupation?",
     options: [
-      "internal wars",
-      "good leadership",
-      "farming",
-      "peace"
+      "Banking",
+      "Mining",
+      "Teaching",
+      "Tailoring"
     ],
-    correctAnswer: "internal wars",
+    correctAnswer: "Mining",
     marks: 1
   },
   {
     id: 40,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Benin art was mostly used to ______.",
+    subject: 'business',
+    question: "The occupation that deals with the production of raw materials is called ______.",
     options: [
-      "decorate palaces",
-      "build houses",
-      "cook",
-      "Fight"
+      "Secondary occupation",
+      "Primary occupation",
+      "Tertiary occupation",
+      "Industrial occupation"
     ],
-    correctAnswer: "decorate palaces",
+    correctAnswer: "Primary occupation",
     marks: 1
   },
   {
     id: 41,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Hausa city-states were located in ______ Nigeria.",
+    subject: 'business',
+    question: "The occupation that turns raw materials into finished goods is called ______.",
     options: [
-      "Northern",
-      "Southern",
-      "Western",
-      "Eastern"
+      "Primary occupation",
+      "Secondary occupation",
+      "Tertiary occupation",
+      "Informal occupation"
     ],
-    correctAnswer: "Northern",
+    correctAnswer: "Secondary occupation",
     marks: 1
   },
   {
     id: 42,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The ruler of Hausa city-states was called the ______.",
+    subject: 'business',
+    question: "The occupation that provides services to people is called ______.",
     options: [
-      "Sarki",
-      "Oba",
-      "Alaafin",
-      "Chief"
+      "Secondary occupation",
+      "Primary occupation",
+      "Tertiary occupation",
+      "Agricultural occupation"
     ],
-    correctAnswer: "Sarki",
+    correctAnswer: "Tertiary occupation",
     marks: 1
   },
   {
     id: 43,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Hausa city-states include ______.",
+    subject: 'business',
+    question: "Which of these is an example of a tertiary occupation?",
     options: [
-      "Kano, Katsina, Zaria",
-      "Ibadan, Oyo, Ife",
-      "Benin, Warri, Asaba",
-      "Nsukka, Onitsha, Owerri"
+      "Fishing",
+      "Banking",
+      "Mining",
+      "Farming"
     ],
-    correctAnswer: "Kano, Katsina, Zaria",
+    correctAnswer: "Banking",
     marks: 1
   },
   {
     id: 44,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Hausa people were known for ______.",
+    subject: 'business',
+    question: "The farmer who grows crops is engaged in a ______ occupation.",
     options: [
-      "trading",
-      "fishing",
-      "dancing",
-      "weaving"
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Industrial"
     ],
-    correctAnswer: "trading",
+    correctAnswer: "Primary",
     marks: 1
   },
   {
     id: 45,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Fulani were mainly ______.",
+    subject: 'business',
+    question: "A carpenter belongs to which type of occupation?",
     options: [
-      "farmers",
-      "herdsmen",
-      "fishermen",
-      "traders"
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Informal"
     ],
-    correctAnswer: "herdsmen",
+    correctAnswer: "Secondary",
     marks: 1
   },
   {
     id: 46,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Hausa language became popular because of ______.",
+    subject: 'business',
+    question: "A teacher is engaged in a ______ occupation.",
     options: [
-      "trade",
-      "war",
-      "religion",
-      "farming"
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Industrial"
     ],
-    correctAnswer: "trade",
+    correctAnswer: "Tertiary",
     marks: 1
   },
   {
     id: 47,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Islam was introduced to Hausa land through ______.",
+    subject: 'business',
+    question: "Occupations are grouped into how many main types?",
     options: [
-      "trade and scholars",
-      "war",
-      "festivals",
-      "music"
+      "Two",
+      "Three",
+      "Four",
+      "Five"
     ],
-    correctAnswer: "trade and scholars",
+    correctAnswer: "Three",
     marks: 1
   },
   {
     id: 48,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The main occupation of the Hausa people was ______.",
+    subject: 'business',
+    question: "Which of these is not an example of a primary occupation?",
     options: [
-      "trading",
-      "mining",
-      "teaching",
-      "dancing"
+      "Farming",
+      "Fishing",
+      "Mining",
+      "Tailoring"
     ],
-    correctAnswer: "trading",
+    correctAnswer: "Tailoring",
     marks: 1
   },
   {
     id: 49,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Fulani and Hausa later formed the ______.",
+    subject: 'business',
+    question: "People who make goods from raw materials are called ______.",
     options: [
-      "Hausa-Fulani group",
-      "Yoruba tribe",
-      "Benin people",
-      "Igbo nation"
+      "Producers",
+      "Consumers",
+      "Distributors",
+      "Sellers"
     ],
-    correctAnswer: "Hausa-Fulani group",
+    correctAnswer: "Producers",
     marks: 1
   },
   {
     id: 50,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The city of Kano was known for ______.",
+    subject: 'business',
+    question: "The act of selling and distributing goods to customers is a ______ occupation.",
     options: [
-      "dyeing and trading",
-      "farming",
-      "fishing",
-      "singing"
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Industrial"
     ],
-    correctAnswer: "dyeing and trading",
+    correctAnswer: "Tertiary",
     marks: 1
   },
   {
     id: 51,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Igbo people lived mainly in ______ Nigeria.",
+    subject: 'business',
+    question: "An occupation that requires training or special skills is called a ______ occupation.",
     options: [
-      "Eastern",
-      "Western",
-      "Northern",
-      "Central"
+      "Skilled",
+      "Unskilled",
+      "Informal",
+      "Manual"
     ],
-    correctAnswer: "Eastern",
+    correctAnswer: "Skilled",
     marks: 1
   },
   {
     id: 52,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The traditional Igbo society had no ______.",
+    subject: 'business',
+    question: "Which of these occupations is unskilled?",
     options: [
-      "central king",
-      "farmers",
-      "markets",
-      "families"
+      "Doctor",
+      "Lawyer",
+      "Labourer",
+      "Mechanic"
     ],
-    correctAnswer: "central king",
+    correctAnswer: "Labourer",
     marks: 1
   },
   {
     id: 53,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Igbo people practiced ______ system of government.",
+    subject: 'business',
+    question: "A fisherman is involved in a ______ occupation.",
     options: [
-      "republican",
-      "monarchy",
-      "dictatorship",
-      "democracy"
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Informal"
     ],
-    correctAnswer: "republican",
+    correctAnswer: "Primary",
     marks: 1
   },
   {
     id: 54,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Igbo traditional title holders were called ______.",
+    subject: 'business',
+    question: "The occupation that provides health services to people is ______.",
     options: [
-      "Ozo and Nze",
-      "Sarki",
-      "Oba",
-      "Emir"
+      "Medicine",
+      "Tailoring",
+      "Teaching",
+      "Farming"
     ],
-    correctAnswer: "Ozo and Nze",
+    correctAnswer: "Medicine",
     marks: 1
   },
   {
     id: 55,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Igbo society believed in ______.",
+    subject: 'business',
+    question: "All occupations are important because ______.",
     options: [
-      "one God called Chukwu",
-      "many kings",
-      "magic only",
-      "no god"
+      "they help people to sleep",
+      "they make people lazy",
+      "they help in the development of society",
+      "they cause quarrels"
     ],
-    correctAnswer: "one God called Chukwu",
+    correctAnswer: "they help in the development of society",
     marks: 1
   },
   {
     id: 56,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Arochukwu oracle was known as ______.",
+    subject: 'business',
+    question: "Trade is the act of ______.",
     options: [
-      "Long Juju",
-      "Great Spirit",
-      "Chief Oracle",
-      "Ala Shrine"
+      "teaching in schools",
+      "buying and selling of goods and services",
+      "keeping records",
+      "working in offices"
     ],
-    correctAnswer: "Long Juju",
+    correctAnswer: "buying and selling of goods and services",
     marks: 1
   },
   {
     id: 57,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "Igbo people were mainly ______.",
+    subject: 'business',
+    question: "Commerce is wider than trade because it includes ______.",
     options: [
-      "farmers",
-      "fishermen",
-      "traders",
-      "warriors"
+      "only buying and selling",
+      "all activities that help trade to take place",
+      "playing and dancing",
+      "farming only"
     ],
-    correctAnswer: "farmers",
+    correctAnswer: "all activities that help trade to take place",
     marks: 1
   },
   {
     id: 58,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Igbo people believed in life after ______.",
+    subject: 'business',
+    question: "The two main types of trade are ______.",
     options: [
-      "death",
-      "birth",
-      "marriage",
-      "festival"
+      "Local and foreign trade",
+      "Wholesale and retail trade",
+      "Buying and selling",
+      "Import and export trade"
     ],
-    correctAnswer: "death",
+    correctAnswer: "Local and foreign trade",
     marks: 1
   },
   {
     id: 59,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The Igbo people were known for their ______.",
+    subject: 'business',
+    question: "Buying and selling of goods within a country is called ______.",
     options: [
-      "festivals and trade",
-      "army",
-      "navy",
-      "horses"
+      "Foreign trade",
+      "Home trade",
+      "Export trade",
+      "Import trade"
     ],
-    correctAnswer: "festivals and trade",
+    correctAnswer: "Home trade",
     marks: 1
   },
   {
     id: 60,
     type: 'multiple-choice',
-    subject: 'history',
-    question: "The elders in Igbo communities were respected because they ______.",
+    subject: 'business',
+    question: "The trade between two or more countries is known as ______.",
     options: [
-      "had wisdom and experience",
-      "were rich",
-      "were young",
-      "had power only"
+      "Home trade",
+      "Foreign trade",
+      "Local trade",
+      "Retail trade"
     ],
-    correctAnswer: "had wisdom and experience",
+    correctAnswer: "Foreign trade",
     marks: 1
   }
 ];

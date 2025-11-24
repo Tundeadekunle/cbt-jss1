@@ -4,7 +4,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 1,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "The basic unit of length in the SI system is:",
     options: [
       "Kilometre",
@@ -18,7 +18,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 2,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "1 kilometre is equal to:",
     options: [
       "100 m",
@@ -32,7 +32,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 3,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "The instrument used to measure long distances is:",
     options: [
       "Ruler",
@@ -46,7 +46,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 4,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "The instrument used to measure the thickness of objects is:",
     options: [
       "Thermometer",
@@ -60,7 +60,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 5,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Length of a classroom is best measured using:",
     options: [
       "Ruler",
@@ -74,7 +74,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 6,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "100 centimetres is equal to:",
     options: [
       "1 metre",
@@ -88,7 +88,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 7,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "The unit used to measure very small lengths is:",
     options: [
       "Kilometre",
@@ -102,7 +102,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 8,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Distance between cities is measured in:",
     options: [
       "Centimetres",
@@ -116,7 +116,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 9,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "A metre scale is usually made of:",
     options: [
       "Wood or metal",
@@ -130,7 +130,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 10,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "A ruler usually measures up to:",
     options: [
       "10 cm",
@@ -144,7 +144,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 11,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "To measure curved lengths, we use:",
     options: [
       "Ruler",
@@ -158,7 +158,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 12,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "The longest unit of length among these is:",
     options: [
       "Metre",
@@ -172,7 +172,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 13,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "The SI unit of mass is:",
     options: [
       "Gram",
@@ -186,7 +186,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 14,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "1000 grams is equal to:",
     options: [
       "1 milligram",
@@ -200,7 +200,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 15,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "To measure mass, we use:",
     options: [
       "Thermometer",
@@ -214,7 +214,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 16,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "The SI unit of volume is:",
     options: [
       "Litre",
@@ -228,7 +228,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 17,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "A measuring cylinder is used to measure:",
     options: [
       "Temperature",
@@ -242,7 +242,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 18,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "1 litre is equal to:",
     options: [
       "10 mL",
@@ -256,7 +256,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 19,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Mass of an apple is best measured in:",
     options: [
       "Kilograms",
@@ -270,7 +270,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 20,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Volume of water in a bottle is measured in:",
     options: [
       "Grams",
@@ -284,7 +284,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 21,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "A spring balance measures:",
     options: [
       "Weight",
@@ -298,7 +298,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 22,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "1 cubic metre (m³) is a unit of:",
     options: [
       "Length",
@@ -312,7 +312,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 23,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Which instrument shows reading in millilitres?",
     options: [
       "Ruler",
@@ -326,7 +326,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 24,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "The mass of a truck is measured in:",
     options: [
       "Grams",
@@ -340,7 +340,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 25,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Matter is anything that:",
     options: [
       "Has mass and occupies space",
@@ -354,7 +354,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 26,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Which of the following is a state of matter?",
     options: [
       "Energy",
@@ -368,7 +368,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 27,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Particles in solids are:",
     options: [
       "Far apart",
@@ -382,7 +382,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 28,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Liquids have:",
     options: [
       "Fixed shape and fixed volume",
@@ -396,7 +396,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 29,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Gases have:",
     options: [
       "Fixed shape",
@@ -410,7 +410,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 30,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Water changing into ice is:",
     options: [
       "Melting",
@@ -424,7 +424,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 31,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Water turning into vapour is called:",
     options: [
       "Condensation",
@@ -438,7 +438,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 32,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "The process of gas turning into liquid is:",
     options: [
       "Melting",
@@ -452,7 +452,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 33,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Dry ice changing directly into gas is:",
     options: [
       "Melting",
@@ -466,7 +466,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 34,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Solid to liquid transformation occurs at:",
     options: [
       "Boiling point",
@@ -480,7 +480,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 35,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Which of the following is a gas at room temperature?",
     options: [
       "Stone",
@@ -494,7 +494,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 36,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Which state of matter has the weakest forces of attraction?",
     options: [
       "Solid",
@@ -508,7 +508,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 37,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Living things can:",
     options: [
       "Grow",
@@ -522,7 +522,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 38,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Non-living things:",
     options: [
       "Need food",
@@ -536,7 +536,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 39,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Which of the following is a living thing?",
     options: [
       "Rock",
@@ -550,7 +550,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 40,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Plants make their food through:",
     options: [
       "Respiration",
@@ -564,7 +564,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 41,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Which of the following shows movement but is non-living?",
     options: [
       "Dog",
@@ -578,7 +578,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 42,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Living things respond to:",
     options: [
       "Light",
@@ -592,7 +592,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 43,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Which is non-living?",
     options: [
       "Fish",
@@ -606,7 +606,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 44,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "All living things need:",
     options: [
       "Toys",
@@ -620,7 +620,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 45,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Animals breathe through:",
     options: [
       "Lungs",
@@ -634,7 +634,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 46,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Plants breathe through:",
     options: [
       "Leaves",
@@ -648,7 +648,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 47,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Which of the following grows?",
     options: [
       "Ball",
@@ -662,7 +662,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 48,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Non-living things cannot:",
     options: [
       "Move on their own",
@@ -676,7 +676,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 49,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Science is the study of:",
     options: [
       "Magic",
@@ -690,7 +690,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 50,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Science helps us to:",
     options: [
       "Understand the world",
@@ -704,7 +704,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 51,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "The scientific method involves:",
     options: [
       "Guessing only",
@@ -718,7 +718,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 52,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Which of the following is a branch of science?",
     options: [
       "Physics",
@@ -732,7 +732,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 53,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Importance of science includes:",
     options: [
       "Developing technology",
@@ -746,7 +746,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 54,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Science teaches us to be:",
     options: [
       "Superstitious",
@@ -760,7 +760,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 55,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "The act of observing means:",
     options: [
       "Guessing",
@@ -774,7 +774,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 56,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Which of these is a scientific tool?",
     options: [
       "Microscope",
@@ -788,7 +788,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 57,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Science helps in improving:",
     options: [
       "Health",
@@ -802,7 +802,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 58,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "A scientist is a person who:",
     options: [
       "Plays games",
@@ -816,7 +816,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 59,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "The first step in the scientific method is usually:",
     options: [
       "Observation",
@@ -830,7 +830,7 @@ export const scienceQuestions: Question[] = [
   {
     id: 60,
     type: 'multiple-choice',
-    subject: 'basic science',
+    subject: 'science',
     question: "Science is important because it:",
     options: [
       "Spreads myths",
