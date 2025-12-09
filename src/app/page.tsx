@@ -55,12 +55,12 @@ export default function HomePage() {
               Take your exams with confidence and get instant results.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-              <Link
+              {/* <Link
                 href="/login"
                 className="bg-blue-600 text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-blue-700 transition-colors shadow-lg shadow-blue-600/25"
               >
                 Start Your Exam
-              </Link>
+              </Link> */}
               <a
                 href="#features"
                 className="border-2 border-white text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-white hover:text-blue-900 transition-colors"
