@@ -5,840 +5,420 @@ export const scienceQuestions: Question[] = [
     id: 1,
     type: 'multiple-choice',
     subject: 'science',
-    question: "The basic unit of length in the SI system is:",
+    question: "Matter is anything that",
     options: [
-      "Kilometre",
-      "Metre",
-      "Centimetre",
-      "Millimetre"
+      "can run",
+      "has life",
+      "has mass and occupies space",
+      "can shine"
     ],
-    correctAnswer: "Metre",
+    correctAnswer: "has mass and occupies space",
     marks: 1
   },
   {
     id: 2,
     type: 'multiple-choice',
     subject: 'science',
-    question: "1 kilometre is equal to:",
+    question: "Which of the following is NOT matter?",
     options: [
-      "100 m",
-      "1000 m",
-      "10 m",
-      "500 m"
+      "Water",
+      "Air",
+      "Light",
+      "Stone"
     ],
-    correctAnswer: "1000 m",
+    correctAnswer: "Light",
     marks: 1
   },
   {
     id: 3,
     type: 'multiple-choice',
     subject: 'science',
-    question: "The instrument used to measure long distances is:",
+    question: "The three states of matter are",
     options: [
-      "Ruler",
-      "Metre scale",
-      "Measuring tape",
-      "Vernier caliper"
+      "Solid, liquid and gas",
+      "Hard, soft and liquid",
+      "Solid, water and air",
+      "Gas, heat and liquid"
     ],
-    correctAnswer: "Measuring tape",
+    correctAnswer: "Solid, liquid and gas",
     marks: 1
   },
   {
     id: 4,
     type: 'multiple-choice',
     subject: 'science',
-    question: "The instrument used to measure the thickness of objects is:",
+    question: "Which of these is a liquid?",
     options: [
-      "Thermometer",
-      "Vernier caliper",
-      "Measuring cylinder",
-      "Compass"
+      "Book",
+      "Milk",
+      "Chair",
+      "Pencil"
     ],
-    correctAnswer: "Vernier caliper",
+    correctAnswer: "Milk",
     marks: 1
   },
   {
     id: 5,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Length of a classroom is best measured using:",
+    question: "Air is a",
     options: [
-      "Ruler",
-      "Tape measure",
-      "Paper strip",
-      "Measuring spoon"
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Metal"
     ],
-    correctAnswer: "Tape measure",
+    correctAnswer: "Gas",
     marks: 1
   },
   {
     id: 6,
     type: 'multiple-choice',
     subject: 'science',
-    question: "100 centimetres is equal to:",
+    question: "An example of a solid is",
     options: [
-      "1 metre",
-      "10 metres",
-      "1 kilometre",
-      "50 metres"
+      "Oil",
+      "Oxygen",
+      "Iron",
+      "Smoke"
     ],
-    correctAnswer: "1 metre",
+    correctAnswer: "Iron",
     marks: 1
   },
   {
     id: 7,
     type: 'multiple-choice',
     subject: 'science',
-    question: "The unit used to measure very small lengths is:",
+    question: "Living things can",
     options: [
-      "Kilometre",
-      "Millimetre",
-      "Metre",
-      "Litre"
+      "Grow",
+      "Shine",
+      "Break",
+      "Rust"
     ],
-    correctAnswer: "Millimetre",
+    correctAnswer: "Grow",
     marks: 1
   },
   {
     id: 8,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Distance between cities is measured in:",
+    question: "Which of the following is a living thing?",
     options: [
-      "Centimetres",
-      "Metres",
-      "Kilometres",
-      "Millimetres"
+      "Car",
+      "Goat",
+      "Table",
+      "Bottle"
     ],
-    correctAnswer: "Kilometres",
+    correctAnswer: "Goat",
     marks: 1
   },
   {
     id: 9,
     type: 'multiple-choice',
     subject: 'science',
-    question: "A metre scale is usually made of:",
+    question: "One characteristic of living things is",
     options: [
-      "Wood or metal",
-      "Cloth",
-      "Cotton",
-      "Plastic"
+      "Movement",
+      "Colour",
+      "Size",
+      "Shape"
     ],
-    correctAnswer: "Wood or metal",
+    correctAnswer: "Movement",
     marks: 1
   },
   {
     id: 10,
     type: 'multiple-choice',
     subject: 'science',
-    question: "A ruler usually measures up to:",
+    question: "Plants are living because they",
     options: [
-      "10 cm",
-      "15 cm",
-      "20 cm or 30 cm",
-      "2 m"
+      "Are green",
+      "Grow and reproduce",
+      "Are beautiful",
+      "Are tall"
     ],
-    correctAnswer: "20 cm or 30 cm",
+    correctAnswer: "Grow and reproduce",
     marks: 1
   },
   {
     id: 11,
     type: 'multiple-choice',
     subject: 'science',
-    question: "To measure curved lengths, we use:",
+    question: "Which of these is non-living?",
     options: [
-      "Ruler",
-      "Divider",
-      "Thread and ruler",
-      "Thermometer"
+      "Fish",
+      "Bird",
+      "Rock",
+      "Tree"
     ],
-    correctAnswer: "Thread and ruler",
+    correctAnswer: "Rock",
     marks: 1
   },
   {
     id: 12,
     type: 'multiple-choice',
     subject: 'science',
-    question: "The longest unit of length among these is:",
+    question: "Living things respond to",
     options: [
-      "Metre",
-      "Centimetre",
-      "Millimetre",
-      "Kilometre"
+      "Light and sound",
+      "Air only",
+      "Food only",
+      "Nothing"
     ],
-    correctAnswer: "Kilometre",
+    correctAnswer: "Light and sound",
     marks: 1
   },
   {
     id: 13,
     type: 'multiple-choice',
     subject: 'science',
-    question: "The SI unit of mass is:",
+    question: "Energy is the ability to",
     options: [
-      "Gram",
-      "Kilogram",
-      "Milligram",
-      "Pound"
+      "Sleep",
+      "Do work",
+      "Eat food",
+      "Sit down"
     ],
-    correctAnswer: "Kilogram",
+    correctAnswer: "Do work",
     marks: 1
   },
   {
     id: 14,
     type: 'multiple-choice',
     subject: 'science',
-    question: "1000 grams is equal to:",
+    question: "Which of the following is a form of energy?",
     options: [
-      "1 milligram",
-      "1 kilogram",
-      "10 kilograms",
-      "100 kilograms"
+      "Heat",
+      "Stone",
+      "Chair",
+      "Bottle"
     ],
-    correctAnswer: "1 kilogram",
+    correctAnswer: "Heat",
     marks: 1
   },
   {
     id: 15,
     type: 'multiple-choice',
     subject: 'science',
-    question: "To measure mass, we use:",
+    question: "The sun gives us",
     options: [
-      "Thermometer",
-      "Beam balance",
-      "Measuring tape",
-      "Compass"
+      "Water energy",
+      "Heat and light energy",
+      "Sound energy",
+      "Wind energy"
     ],
-    correctAnswer: "Beam balance",
+    correctAnswer: "Heat and light energy",
     marks: 1
   },
   {
     id: 16,
     type: 'multiple-choice',
     subject: 'science',
-    question: "The SI unit of volume is:",
+    question: "Electrical energy is used to",
     options: [
-      "Litre",
-      "Cubic metre",
-      "Millilitre",
-      "Centimetre"
+      "Sweep",
+      "Power appliances",
+      "Grow plants",
+      "Break stones"
     ],
-    correctAnswer: "Cubic metre",
+    correctAnswer: "Power appliances",
     marks: 1
   },
   {
     id: 17,
     type: 'multiple-choice',
     subject: 'science',
-    question: "A measuring cylinder is used to measure:",
+    question: "Energy from food is called",
     options: [
-      "Temperature",
-      "Length",
-      "Volume of liquids",
-      "Speed"
+      "Chemical energy",
+      "Solar energy",
+      "Wind energy",
+      "Nuclear energy"
     ],
-    correctAnswer: "Volume of liquids",
+    correctAnswer: "Chemical energy",
     marks: 1
   },
   {
     id: 18,
     type: 'multiple-choice',
     subject: 'science',
-    question: "1 litre is equal to:",
+    question: "Moving air produces",
     options: [
-      "10 mL",
-      "100 mL",
-      "1000 mL",
-      "500 mL"
+      "Heat energy",
+      "Wind energy",
+      "Light energy",
+      "Sound energy"
     ],
-    correctAnswer: "1000 mL",
+    correctAnswer: "Wind energy",
     marks: 1
   },
   {
     id: 19,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Mass of an apple is best measured in:",
+    question: "Renewable energy is energy that",
     options: [
-      "Kilograms",
-      "Milligrams",
-      "Tonnes",
-      "Litres"
+      "Cannot be used again",
+      "Finishes quickly",
+      "Can be replaced naturally",
+      "Is very expensive"
     ],
-    correctAnswer: "Kilograms",
+    correctAnswer: "Can be replaced naturally",
     marks: 1
   },
   {
     id: 20,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Volume of water in a bottle is measured in:",
+    question: "Which of these is renewable?",
     options: [
-      "Grams",
-      "Litres or millilitres",
-      "Metres",
-      "Centimetres"
+      "Coal",
+      "Petroleum",
+      "Solar energy",
+      "Diesel"
     ],
-    correctAnswer: "Litres or millilitres",
+    correctAnswer: "Solar energy",
     marks: 1
   },
   {
     id: 21,
     type: 'multiple-choice',
     subject: 'science',
-    question: "A spring balance measures:",
+    question: "Solar energy comes from the",
     options: [
-      "Weight",
-      "Area",
-      "Length",
-      "Time"
+      "Moon",
+      "Earth",
+      "Sun",
+      "Wind"
     ],
-    correctAnswer: "Weight",
+    correctAnswer: "Sun",
     marks: 1
   },
   {
     id: 22,
     type: 'multiple-choice',
     subject: 'science',
-    question: "1 cubic metre (m³) is a unit of:",
+    question: "Wind energy is produced by",
     options: [
-      "Length",
-      "Area",
-      "Volume",
-      "Mass"
+      "Moving water",
+      "Moving air",
+      "Burning fuel",
+      "Electricity"
     ],
-    correctAnswer: "Volume",
+    correctAnswer: "Moving air",
     marks: 1
   },
   {
     id: 23,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Which instrument shows reading in millilitres?",
+    question: "Which of these is non-renewable?",
     options: [
-      "Ruler",
-      "Measuring cylinder",
-      "Stopwatch",
-      "Magnet"
+      "Sunlight",
+      "Wind",
+      "Coal",
+      "Water"
     ],
-    correctAnswer: "Measuring cylinder",
+    correctAnswer: "Coal",
     marks: 1
   },
   {
     id: 24,
     type: 'multiple-choice',
     subject: 'science',
-    question: "The mass of a truck is measured in:",
+    question: "Petroleum is a",
     options: [
-      "Grams",
-      "Kilograms",
-      "Tonnes",
-      "Milligrams"
+      "Renewable resource",
+      "Non-renewable resource",
+      "Living thing",
+      "Gas only"
     ],
-    correctAnswer: "Tonnes",
+    correctAnswer: "Non-renewable resource",
     marks: 1
   },
   {
     id: 25,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Matter is anything that:",
+    question: "Examples of fossil fuels include",
     options: [
-      "Has mass and occupies space",
-      "Has no mass",
-      "Cannot be seen",
-      "Does not occupy space"
+      "Sun and wind",
+      "Coal and petroleum",
+      "Water and air",
+      "Soil and sand"
     ],
-    correctAnswer: "Has mass and occupies space",
+    correctAnswer: "Coal and petroleum",
     marks: 1
   },
   {
     id: 26,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Which of the following is a state of matter?",
+    question: "Water used to produce electricity is called",
     options: [
-      "Energy",
-      "Solid",
-      "Light",
-      "Sound"
+      "Solar power",
+      "Wind power",
+      "Hydro power",
+      "Nuclear power"
     ],
-    correctAnswer: "Solid",
+    correctAnswer: "Hydro power",
     marks: 1
   },
   {
     id: 27,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Particles in solids are:",
+    question: "Non-renewable energy sources",
     options: [
-      "Far apart",
-      "Very close",
-      "Not present",
-      "Moving freely"
+      "Can be replaced quickly",
+      "Cannot be replaced easily",
+      "Grow naturally",
+      "Are unlimited"
     ],
-    correctAnswer: "Very close",
+    correctAnswer: "Cannot be replaced easily",
     marks: 1
   },
   {
     id: 28,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Liquids have:",
+    question: "Using renewable energy helps to",
     options: [
-      "Fixed shape and fixed volume",
-      "No shape and no volume",
-      "Fixed volume but no fixed shape",
-      "Fixed shape but no volume"
+      "Increase pollution",
+      "Reduce pollution",
+      "Destroy plants",
+      "Waste resources"
     ],
-    correctAnswer: "Fixed volume but no fixed shape",
+    correctAnswer: "Reduce pollution",
     marks: 1
   },
   {
     id: 29,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Gases have:",
+    question: "Which energy source is best for reducing air pollution?",
     options: [
-      "Fixed shape",
-      "Fixed volume",
-      "Neither fixed shape nor fixed volume",
-      "Only fixed shape"
+      "Coal",
+      "Petrol",
+      "Solar energy",
+      "Diesel"
     ],
-    correctAnswer: "Neither fixed shape nor fixed volume",
+    correctAnswer: "Solar energy",
     marks: 1
   },
   {
     id: 30,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Water changing into ice is:",
+    question: "The main difference between renewable and non-renewable energy is that renewable energy",
     options: [
-      "Melting",
-      "Freezing",
-      "Boiling",
-      "Evaporation"
+      "Is cheaper",
+      "Is always stronger",
+      "Can be naturally replaced",
+      "Is used only at night"
     ],
-    correctAnswer: "Freezing",
-    marks: 1
-  },
-  {
-    id: 31,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Water turning into vapour is called:",
-    options: [
-      "Condensation",
-      "Evaporation",
-      "Freezing",
-      "Melting"
-    ],
-    correctAnswer: "Evaporation",
-    marks: 1
-  },
-  {
-    id: 32,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "The process of gas turning into liquid is:",
-    options: [
-      "Melting",
-      "Condensation",
-      "Sublimation",
-      "Evaporation"
-    ],
-    correctAnswer: "Condensation",
-    marks: 1
-  },
-  {
-    id: 33,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Dry ice changing directly into gas is:",
-    options: [
-      "Melting",
-      "Freezing",
-      "Sublimation",
-      "Boiling"
-    ],
-    correctAnswer: "Sublimation",
-    marks: 1
-  },
-  {
-    id: 34,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Solid to liquid transformation occurs at:",
-    options: [
-      "Boiling point",
-      "Melting point",
-      "Freezing point",
-      "Saturation point"
-    ],
-    correctAnswer: "Melting point",
-    marks: 1
-  },
-  {
-    id: 35,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Which of the following is a gas at room temperature?",
-    options: [
-      "Stone",
-      "Milk",
-      "Oxygen",
-      "Ice"
-    ],
-    correctAnswer: "Oxygen",
-    marks: 1
-  },
-  {
-    id: 36,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Which state of matter has the weakest forces of attraction?",
-    options: [
-      "Solid",
-      "Liquid",
-      "Gas",
-      "Plastic"
-    ],
-    correctAnswer: "Gas",
-    marks: 1
-  },
-  {
-    id: 37,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Living things can:",
-    options: [
-      "Grow",
-      "Move",
-      "Reproduce",
-      "All of the above"
-    ],
-    correctAnswer: "All of the above",
-    marks: 1
-  },
-  {
-    id: 38,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Non-living things:",
-    options: [
-      "Need food",
-      "Do not grow",
-      "Breathe",
-      "Reproduce"
-    ],
-    correctAnswer: "Do not grow",
-    marks: 1
-  },
-  {
-    id: 39,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Which of the following is a living thing?",
-    options: [
-      "Rock",
-      "Cat",
-      "Table",
-      "Chair"
-    ],
-    correctAnswer: "Cat",
-    marks: 1
-  },
-  {
-    id: 40,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Plants make their food through:",
-    options: [
-      "Respiration",
-      "Photosynthesis",
-      "Digestion",
-      "Fermentation"
-    ],
-    correctAnswer: "Photosynthesis",
-    marks: 1
-  },
-  {
-    id: 41,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Which of the following shows movement but is non-living?",
-    options: [
-      "Dog",
-      "Tree",
-      "Clock",
-      "Bird"
-    ],
-    correctAnswer: "Clock",
-    marks: 1
-  },
-  {
-    id: 42,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Living things respond to:",
-    options: [
-      "Light",
-      "Sound",
-      "Touch",
-      "All of these"
-    ],
-    correctAnswer: "All of these",
-    marks: 1
-  },
-  {
-    id: 43,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Which is non-living?",
-    options: [
-      "Fish",
-      "Flower",
-      "Car",
-      "Human"
-    ],
-    correctAnswer: "Car",
-    marks: 1
-  },
-  {
-    id: 44,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "All living things need:",
-    options: [
-      "Toys",
-      "Food and water",
-      "TV",
-      "Mobile"
-    ],
-    correctAnswer: "Food and water",
-    marks: 1
-  },
-  {
-    id: 45,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Animals breathe through:",
-    options: [
-      "Lungs",
-      "Gills",
-      "Skin",
-      "All of these"
-    ],
-    correctAnswer: "All of these",
-    marks: 1
-  },
-  {
-    id: 46,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Plants breathe through:",
-    options: [
-      "Leaves",
-      "Stomata",
-      "Roots",
-      "Fruits"
-    ],
-    correctAnswer: "Stomata",
-    marks: 1
-  },
-  {
-    id: 47,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Which of the following grows?",
-    options: [
-      "Ball",
-      "Tree",
-      "Car",
-      "Spoon"
-    ],
-    correctAnswer: "Tree",
-    marks: 1
-  },
-  {
-    id: 48,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Non-living things cannot:",
-    options: [
-      "Move on their own",
-      "Grow",
-      "Reproduce",
-      "All of the above"
-    ],
-    correctAnswer: "All of the above",
-    marks: 1
-  },
-  {
-    id: 49,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Science is the study of:",
-    options: [
-      "Magic",
-      "Nature and its phenomena",
-      "Games",
-      "Stories"
-    ],
-    correctAnswer: "Nature and its phenomena",
-    marks: 1
-  },
-  {
-    id: 50,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Science helps us to:",
-    options: [
-      "Understand the world",
-      "Learn cooking only",
-      "Avoid learning",
-      "Stay confused"
-    ],
-    correctAnswer: "Understand the world",
-    marks: 1
-  },
-  {
-    id: 51,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "The scientific method involves:",
-    options: [
-      "Guessing only",
-      "Asking questions and testing ideas",
-      "Cooking food",
-      "Sleeping"
-    ],
-    correctAnswer: "Asking questions and testing ideas",
-    marks: 1
-  },
-  {
-    id: 52,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Which of the following is a branch of science?",
-    options: [
-      "Physics",
-      "History",
-      "Geography",
-      "Music"
-    ],
-    correctAnswer: "Physics",
-    marks: 1
-  },
-  {
-    id: 53,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Importance of science includes:",
-    options: [
-      "Developing technology",
-      "Improving medicine",
-      "Understanding nature",
-      "All of the above"
-    ],
-    correctAnswer: "All of the above",
-    marks: 1
-  },
-  {
-    id: 54,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Science teaches us to be:",
-    options: [
-      "Superstitious",
-      "Curious",
-      "Fearful",
-      "Lazy"
-    ],
-    correctAnswer: "Curious",
-    marks: 1
-  },
-  {
-    id: 55,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "The act of observing means:",
-    options: [
-      "Guessing",
-      "Using senses to gather information",
-      "Forgetting",
-      "Sleeping"
-    ],
-    correctAnswer: "Using senses to gather information",
-    marks: 1
-  },
-  {
-    id: 56,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Which of these is a scientific tool?",
-    options: [
-      "Microscope",
-      "Pillow",
-      "Blanket",
-      "Cup"
-    ],
-    correctAnswer: "Microscope",
-    marks: 1
-  },
-  {
-    id: 57,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Science helps in improving:",
-    options: [
-      "Health",
-      "Agriculture",
-      "Transport",
-      "All of the above"
-    ],
-    correctAnswer: "All of the above",
-    marks: 1
-  },
-  {
-    id: 58,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "A scientist is a person who:",
-    options: [
-      "Plays games",
-      "Studies and researches nature",
-      "Only cooks food",
-      "Sleeps all day"
-    ],
-    correctAnswer: "Studies and researches nature",
-    marks: 1
-  },
-  {
-    id: 59,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "The first step in the scientific method is usually:",
-    options: [
-      "Observation",
-      "Conclusion",
-      "Experiment",
-      "Report writing"
-    ],
-    correctAnswer: "Observation",
-    marks: 1
-  },
-  {
-    id: 60,
-    type: 'multiple-choice',
-    subject: 'science',
-    question: "Science is important because it:",
-    options: [
-      "Spreads myths",
-      "Explains natural phenomena",
-      "Reduces knowledge",
-      "Creates confusion"
-    ],
-    correctAnswer: "Explains natural phenomena",
+    correctAnswer: "Can be naturally replaced",
     marks: 1
   }
 ];

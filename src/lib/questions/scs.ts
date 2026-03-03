@@ -1,845 +1,425 @@
 import { Question } from '@/types';
 
 export const scsQuestions: Question[] = [
-  // Section A: Multiple Choice Questions (60 Questions)
+  // Section A: Multiple Choice Questions (30 Questions)
   {
     id: 1,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "A society is best described as a group of people who ________.",
+    question: "Environment means ______",
     options: [
-      "live together and share common interests",
-      "fight against one another",
-      "live alone and avoid others",
-      "move from place to place"
+      "classroom",
+      "surroundings",
+      "market",
+      "playground"
     ],
-    correctAnswer: "live together and share common interests",
+    correctAnswer: "surroundings",
     marks: 1
   },
   {
     id: 2,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "Which of the following is an example of a society?",
+    question: "Sustainability means using resources ______",
     options: [
-      "A person watching television",
-      "A family living in a community",
-      "A lion in the forest",
-      "A student reading alone"
+      "carelessly",
+      "quickly",
+      "wisely without waste",
+      "once"
     ],
-    correctAnswer: "A family living in a community",
+    correctAnswer: "wisely without waste",
     marks: 1
   },
   {
     id: 3,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "The main purpose of a society is to help people ________.",
+    question: "One example of natural resources is ______",
     options: [
-      "live and work together in peace",
-      "quarrel with each other",
-      "live in isolation",
-      "fight for food"
+      "plastic",
+      "water",
+      "nylon",
+      "cement"
     ],
-    correctAnswer: "live and work together in peace",
+    correctAnswer: "water",
     marks: 1
   },
   {
     id: 4,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "Members of a society are bound together by ________.",
+    question: "Cutting down too many trees leads to ______",
     options: [
-      "laws, customs, and traditions",
-      "fighting and war",
-      "their wealth alone",
-      "different goals and hatred"
+      "flooding",
+      "happiness",
+      "celebration",
+      "rainfall"
     ],
-    correctAnswer: "laws, customs, and traditions",
+    correctAnswer: "flooding",
     marks: 1
   },
   {
     id: 5,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "Which of the following is NOT part of a society?",
+    question: "The 3Rs of waste management are ______",
     options: [
-      "Government",
-      "Family",
-      "Market",
-      "Desert"
+      "Run, Read, Rest",
+      "Reduce, Reuse, Recycle",
+      "Rise, Repeat, Return",
+      "Repair, Remove, Return"
     ],
-    correctAnswer: "Desert",
+    correctAnswer: "Reduce, Reuse, Recycle",
     marks: 1
   },
   {
     id: 6,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "A small unit of society is called a ________.",
+    question: "Renewable resources can be ______",
     options: [
-      "school",
-      "family",
-      "government",
-      "office"
+      "replaced",
+      "destroyed forever",
+      "eaten",
+      "sold"
     ],
-    correctAnswer: "family",
+    correctAnswer: "replaced",
     marks: 1
   },
   {
     id: 7,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "A good society is one that encourages ________.",
+    question: "Solar energy comes from the ______",
     options: [
-      "laziness and cheating",
-      "peace and cooperation",
-      "disobedience and violence",
-      "greed and selfishness"
+      "moon",
+      "stars",
+      "sun",
+      "wind"
     ],
-    correctAnswer: "peace and cooperation",
+    correctAnswer: "sun",
     marks: 1
   },
   {
     id: 8,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "The rules and laws in society are made to ________.",
+    question: "Keeping our environment clean helps to prevent ______",
     options: [
-      "guide people's behavior",
-      "punish only the poor",
-      "make life difficult",
-      "favor only leaders"
+      "disease",
+      "laughter",
+      "noise",
+      "heat"
     ],
-    correctAnswer: "guide people's behavior",
+    correctAnswer: "disease",
     marks: 1
   },
   {
     id: 9,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "The people, places, and things that make up our daily environment are called ________.",
+    question: "Environmental protection means ______",
     options: [
-      "society",
-      "animals",
-      "culture",
-      "forest"
+      "harming nature",
+      "caring for the environment",
+      "cutting trees",
+      "wasting water"
     ],
-    correctAnswer: "society",
+    correctAnswer: "caring for the environment",
     marks: 1
   },
   {
     id: 10,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "One reason why we need a society is to ________.",
+    question: "One way to protect the environment is by ______",
     options: [
-      "live in peace and progress together",
-      "live alone without help",
-      "disobey others",
-      "avoid friendship"
+      "littering",
+      "planting trees",
+      "burning tyres",
+      "pouring waste in rivers"
     ],
-    correctAnswer: "live in peace and progress together",
+    correctAnswer: "planting trees",
     marks: 1
   },
   {
     id: 11,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "A citizen is a person who ________.",
+    question: "Air pollution is caused by ______",
     options: [
-      "lives in a forest",
-      "belongs to a particular country",
-      "travels to other countries often",
-      "has no permanent home"
+      "smoke",
+      "fresh air",
+      "rainfall",
+      "sunlight"
     ],
-    correctAnswer: "belongs to a particular country",
+    correctAnswer: "smoke",
     marks: 1
   },
   {
     id: 12,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "Which of the following is a duty of a citizen?",
+    question: "Water pollution affects ______",
     options: [
-      "Breaking the law",
-      "Paying taxes",
-      "Cheating in exams",
-      "Refusing to vote"
+      "fish",
+      "rocks",
+      "sand",
+      "chairs"
     ],
-    correctAnswer: "Paying taxes",
+    correctAnswer: "fish",
     marks: 1
   },
   {
     id: 13,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "A responsible citizen should always ________.",
+    question: "Throwing waste into drainage can cause ______",
     options: [
-      "obey the laws of the land",
-      "disobey leaders",
-      "destroy public property",
-      "avoid community work"
+      "beauty",
+      "flooding",
+      "peace",
+      "safety"
     ],
-    correctAnswer: "obey the laws of the land",
+    correctAnswer: "flooding",
     marks: 1
   },
   {
     id: 14,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "One of the responsibilities of a good citizen is to ________.",
+    question: "Bush burning destroys ______",
     options: [
-      "respect national symbols",
-      "refuse to serve the nation",
-      "fight the police",
-      "tell lies"
+      "plants and animals",
+      "buildings",
+      "classrooms",
+      "furniture"
     ],
-    correctAnswer: "respect national symbols",
+    correctAnswer: "plants and animals",
     marks: 1
   },
   {
     id: 15,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "Citizens show loyalty to their country by ________.",
+    question: "The agency responsible for protecting the environment in Nigeria is ______",
     options: [
-      "standing up for the national anthem",
-      "sleeping during assembly",
-      "tearing the national flag",
-      "ignoring government officials"
+      "National Environmental Standards and Regulations Enforcement Agency",
+      "WAEC",
+      "NNPC",
+      "NTA"
     ],
-    correctAnswer: "standing up for the national anthem",
+    correctAnswer: "National Environmental Standards and Regulations Enforcement Agency",
     marks: 1
   },
   {
     id: 16,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "Which of these is NOT a duty of a citizen?",
+    question: "A disaster is an event that causes ______",
     options: [
-      "Paying tax",
-      "Obeying laws",
-      "Stealing from others",
-      "Protecting public property"
+      "joy",
+      "destruction",
+      "games",
+      "learning"
     ],
-    correctAnswer: "Stealing from others",
+    correctAnswer: "destruction",
     marks: 1
   },
   {
     id: 17,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "It is the duty of every citizen to take part in ________.",
+    question: "Flooding is caused mainly by ______",
     options: [
-      "national development",
-      "fighting",
-      "corruption",
-      "destruction of property"
+      "heavy rainfall",
+      "sunshine",
+      "music",
+      "sand"
     ],
-    correctAnswer: "national development",
+    correctAnswer: "heavy rainfall",
     marks: 1
   },
   {
     id: 18,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "When citizens vote during elections, they are performing their ________.",
+    question: "One way to reduce flood risk is by ______",
     options: [
-      "civic responsibility",
-      "religious duty",
-      "private scs",
-      "leisure activity"
+      "blocking drainage",
+      "building on waterways",
+      "clearing drainage",
+      "dumping refuse"
     ],
-    correctAnswer: "civic responsibility",
+    correctAnswer: "clearing drainage",
     marks: 1
   },
   {
     id: 19,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "A good citizen should show respect to ________.",
+    question: "Early warning signs help people to ______",
     options: [
-      "elders and leaders",
-      "only friends",
-      "people from foreign countries alone",
-      "no one"
+      "prepare",
+      "ignore danger",
+      "panic",
+      "sleep"
     ],
-    correctAnswer: "elders and leaders",
+    correctAnswer: "prepare",
     marks: 1
   },
   {
     id: 20,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "A responsible citizen should help to keep the environment ________.",
+    question: "Earthquake is a ______ disaster",
     options: [
-      "dirty",
-      "neat and safe",
-      "destroyed",
-      "flooded"
+      "man-made",
+      "natural",
+      "classroom",
+      "school"
     ],
-    correctAnswer: "neat and safe",
+    correctAnswer: "natural",
     marks: 1
   },
   {
     id: 21,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "Values are the things that people ________.",
+    question: "Emergency phone numbers are used during ______",
     options: [
-      "dislike in others",
-      "believe are important and good",
-      "forget easily",
-      "play with"
+      "play",
+      "celebration",
+      "disaster",
+      "travel"
     ],
-    correctAnswer: "believe are important and good",
+    correctAnswer: "disaster",
     marks: 1
   },
   {
     id: 22,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "Moral values help us to ________.",
+    question: "During fire outbreak, we should ______",
     options: [
-      "behave well in society",
-      "disobey our parents",
-      "hate others",
-      "fight our friends"
+      "hide under bed",
+      "run calmly to safety",
+      "pour petrol",
+      "laugh"
     ],
-    correctAnswer: "behave well in society",
+    correctAnswer: "run calmly to safety",
     marks: 1
   },
   {
     id: 23,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "Which of the following is an example of a good moral value?",
+    question: "An epidemic is ______",
     options: [
-      "Honesty",
-      "Stealing",
-      "Cheating",
-      "Lying"
+      "a festival",
+      "a widespread disease",
+      "a school event",
+      "a market"
     ],
-    correctAnswer: "Honesty",
+    correctAnswer: "a widespread disease",
     marks: 1
   },
   {
     id: 24,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "A person who always tells the truth shows the value of ________.",
+    question: "One example of an epidemic is ______",
     options: [
-      "honesty",
-      "laziness",
-      "wickedness",
-      "greed"
+      "malaria",
+      "COVID-19",
+      "hunger",
+      "noise"
     ],
-    correctAnswer: "honesty",
+    correctAnswer: "COVID-19",
     marks: 1
   },
   {
     id: 25,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "Respect, kindness, and hard work are examples of ________.",
+    question: "During an epidemic, we should ______",
     options: [
-      "bad habits",
-      "good moral values",
-      "laws of the land",
-      "personal interests"
+      "share cups",
+      "wash hands regularly",
+      "ignore symptoms",
+      "avoid hospitals"
     ],
-    correctAnswer: "good moral values",
+    correctAnswer: "wash hands regularly",
     marks: 1
   },
   {
     id: 26,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "One way to show good morals at home is to ________.",
+    question: "Vaccination helps to ______",
     options: [
-      "obey parents and elders",
-      "shout at everyone",
-      "refuse to do chores",
-      "lie about our mistakes"
+      "spread disease",
+      "prevent disease",
+      "cause illness",
+      "create fear"
     ],
-    correctAnswer: "obey parents and elders",
+    correctAnswer: "prevent disease",
     marks: 1
   },
   {
     id: 27,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "Good moral behavior helps to bring ________ in the society.",
+    question: "Covering the mouth when coughing helps to prevent ______",
     options: [
-      "peace and unity",
-      "fighting and confusion",
-      "hatred and division",
-      "crime and corruption"
+      "hunger",
+      "disease spread",
+      "rainfall",
+      "noise"
     ],
-    correctAnswer: "peace and unity",
+    correctAnswer: "disease spread",
     marks: 1
   },
   {
     id: 28,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "A student who respects school rules is showing the value of ________.",
+    question: "Isolating sick persons helps to ______",
     options: [
-      "discipline",
-      "laziness",
-      "stubbornness",
-      "pride"
+      "protect others",
+      "punish them",
+      "hide them",
+      "ignore them"
     ],
-    correctAnswer: "discipline",
+    correctAnswer: "protect others",
     marks: 1
   },
   {
     id: 29,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "One of the results of bad morals in a community is ________.",
+    question: "Personal hygiene includes ______",
     options: [
-      "progress and peace",
-      "crime and disobedience",
-      "cooperation",
-      "honesty"
+      "dirty nails",
+      "unwashed hands",
+      "bathing regularly",
+      "littering"
     ],
-    correctAnswer: "crime and disobedience",
+    correctAnswer: "bathing regularly",
     marks: 1
   },
   {
     id: 30,
     type: 'multiple-choice',
     subject: 'scs',
-    question: "Parents, teachers, and religious leaders help children to learn ________.",
+    question: "During an epidemic, information should be taken from ______",
     options: [
-      "good values and morals",
-      "how to fight",
-      "how to steal",
-      "how to cheat"
+      "rumors",
+      "friends only",
+      "health authorities",
+      "strangers"
     ],
-    correctAnswer: "good values and morals",
-    marks: 1
-  },
-  {
-    id: 31,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "Authority means the power or right to ________.",
-    options: [
-      "make decisions and enforce rules",
-      "fight with others",
-      "play with friends",
-      "travel abroad"
-    ],
-    correctAnswer: "make decisions and enforce rules",
-    marks: 1
-  },
-  {
-    id: 32,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "People in authority are those who ________.",
-    options: [
-      "lead and guide others",
-      "disobey laws",
-      "cause confusion",
-      "break rules"
-    ],
-    correctAnswer: "lead and guide others",
-    marks: 1
-  },
-  {
-    id: 33,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "Which of the following is an example of authority in the school?",
-    options: [
-      "Class teacher",
-      "Student prefect",
-      "Principal",
-      "All of the above"
-    ],
-    correctAnswer: "All of the above",
-    marks: 1
-  },
-  {
-    id: 34,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "At home, the people in authority are ________.",
-    options: [
-      "parents and elders",
-      "children",
-      "visitors",
-      "neighbors"
-    ],
-    correctAnswer: "parents and elders",
-    marks: 1
-  },
-  {
-    id: 35,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "Respecting authority means ________.",
-    options: [
-      "obeying those in charge",
-      "arguing with leaders",
-      "doing whatever you like",
-      "disobeying rules"
-    ],
-    correctAnswer: "obeying those in charge",
-    marks: 1
-  },
-  {
-    id: 36,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "Which of these shows respect for authority?",
-    options: [
-      "Greeting elders politely",
-      "Refusing to obey laws",
-      "Talking back to teachers",
-      "Ignoring community leaders"
-    ],
-    correctAnswer: "Greeting elders politely",
-    marks: 1
-  },
-  {
-    id: 37,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "When students obey school rules, they show respect for ________.",
-    options: [
-      "the principal and teachers",
-      "their friends only",
-      "no one",
-      "people outside the school"
-    ],
-    correctAnswer: "the principal and teachers",
-    marks: 1
-  },
-  {
-    id: 38,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "Disrespect for authority can lead to ________.",
-    options: [
-      "peace and progress",
-      "disorder and punishment",
-      "happiness",
-      "development"
-    ],
-    correctAnswer: "disorder and punishment",
-    marks: 1
-  },
-  {
-    id: 39,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "Respect for authority helps to maintain ________ in society.",
-    options: [
-      "peace and order",
-      "crime and confusion",
-      "noise and fighting",
-      "laziness"
-    ],
-    correctAnswer: "peace and order",
-    marks: 1
-  },
-  {
-    id: 40,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "A good citizen shows respect for ________.",
-    options: [
-      "laws, leaders, and elders",
-      "only rich people",
-      "bad people",
-      "nobody"
-    ],
-    correctAnswer: "laws, leaders, and elders",
-    marks: 1
-  },
-  {
-    id: 41,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "The rule of law means that ________.",
-    options: [
-      "no one is above the law",
-      "leaders can do whatever they like",
-      "only the poor should obey the law",
-      "police are free to break the law"
-    ],
-    correctAnswer: "no one is above the law",
-    marks: 1
-  },
-  {
-    id: 42,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "The main purpose of the rule of law is to ensure ________.",
-    options: [
-      "justice and fairness",
-      "corruption and cheating",
-      "favoritism",
-      "punishment for the weak"
-    ],
-    correctAnswer: "justice and fairness",
-    marks: 1
-  },
-  {
-    id: 43,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "Under the rule of law, all citizens are ________.",
-    options: [
-      "equal before the law",
-      "above the law",
-      "treated differently",
-      "not answerable to anyone"
-    ],
-    correctAnswer: "equal before the law",
-    marks: 1
-  },
-  {
-    id: 44,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "One important feature of the rule of law is ________.",
-    options: [
-      "freedom and equality",
-      "dictatorship",
-      "disobedience",
-      "oppression"
-    ],
-    correctAnswer: "freedom and equality",
-    marks: 1
-  },
-  {
-    id: 45,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "The rule of law helps to prevent ________.",
-    options: [
-      "abuse of power",
-      "honesty",
-      "peace",
-      "progress"
-    ],
-    correctAnswer: "abuse of power",
-    marks: 1
-  },
-  {
-    id: 46,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "In a country that practices the rule of law, the leaders ________.",
-    options: [
-      "obey the law like everyone else",
-      "are free to ignore the law",
-      "make rules for only themselves",
-      "do not face punishment"
-    ],
-    correctAnswer: "obey the law like everyone else",
-    marks: 1
-  },
-  {
-    id: 47,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "Which of the following shows respect for the rule of law?",
-    options: [
-      "Obeying traffic rules",
-      "Taking bribes",
-      "Fighting police officers",
-      "Destroying public property"
-    ],
-    correctAnswer: "Obeying traffic rules",
-    marks: 1
-  },
-  {
-    id: 48,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "The rule of law promotes ________ in the society.",
-    options: [
-      "peace and order",
-      "confusion and conflict",
-      "lawlessness",
-      "oppression"
-    ],
-    correctAnswer: "peace and order",
-    marks: 1
-  },
-  {
-    id: 49,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "When the rule of law is not followed, what happens?",
-    options: [
-      "There is disorder and injustice",
-      "People live in peace",
-      "Citizens obey the law",
-      "There is unity and fairness"
-    ],
-    correctAnswer: "There is disorder and injustice",
-    marks: 1
-  },
-  {
-    id: 50,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "The court ensures the rule of law by ________.",
-    options: [
-      "judging cases fairly",
-      "favoring rich people",
-      "ignoring the poor",
-      "disobeying the law"
-    ],
-    correctAnswer: "judging cases fairly",
-    marks: 1
-  },
-  {
-    id: 51,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "A leader is a person who ________.",
-    options: [
-      "guides and directs others",
-      "causes confusion in a group",
-      "disobeys rules and laws",
-      "avoids responsibilities"
-    ],
-    correctAnswer: "guides and directs others",
-    marks: 1
-  },
-  {
-    id: 52,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "Leadership means the act of ________.",
-    options: [
-      "guiding and influencing people positively",
-      "doing things alone",
-      "deceiving others",
-      "keeping silent in society"
-    ],
-    correctAnswer: "guiding and influencing people positively",
-    marks: 1
-  },
-  {
-    id: 53,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "A good leader should have the quality of ________.",
-    options: [
-      "honesty and fairness",
-      "pride and arrogance",
-      "laziness and greed",
-      "selfishness"
-    ],
-    correctAnswer: "honesty and fairness",
-    marks: 1
-  },
-  {
-    id: 54,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "The head of a family is a ________.",
-    options: [
-      "leader at home",
-      "follower",
-      "worker",
-      "stranger"
-    ],
-    correctAnswer: "leader at home",
-    marks: 1
-  },
-  {
-    id: 55,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "In the school, leadership is shown by ________.",
-    options: [
-      "the principal and prefects",
-      "students who fight",
-      "people who break rules",
-      "those who refuse to obey teachers"
-    ],
-    correctAnswer: "the principal and prefects",
-    marks: 1
-  },
-  {
-    id: 56,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "A leader must be ready to ________.",
-    options: [
-      "serve others and take responsibility",
-      "take advantage of people",
-      "cheat and lie",
-      "ignore the followers"
-    ],
-    correctAnswer: "serve others and take responsibility",
-    marks: 1
-  },
-  {
-    id: 57,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "One important duty of a leader is to ________.",
-    options: [
-      "make good decisions for the group",
-      "disobey laws",
-      "lead people into trouble",
-      "create confusion"
-    ],
-    correctAnswer: "make good decisions for the group",
-    marks: 1
-  },
-  {
-    id: 58,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "A leader should be a good ________.",
-    options: [
-      "example to others",
-      "liar",
-      "troublemaker",
-      "follower only"
-    ],
-    correctAnswer: "example to others",
-    marks: 1
-  },
-  {
-    id: 59,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "Which of the following is not a quality of a good leader?",
-    options: [
-      "Honesty",
-      "Responsibility",
-      "Laziness",
-      "Discipline"
-    ],
-    correctAnswer: "Laziness",
-    marks: 1
-  },
-  {
-    id: 60,
-    type: 'multiple-choice',
-    subject: 'scs',
-    question: "Good leadership helps to bring ________ in the society.",
-    options: [
-      "peace and development",
-      "hatred and confusion",
-      "fighting and division",
-      "corruption and backwardness"
-    ],
-    correctAnswer: "peace and development",
+    correctAnswer: "health authorities",
     marks: 1
   }
 ];
