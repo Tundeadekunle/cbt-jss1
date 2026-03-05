@@ -44,7 +44,7 @@
 
 
 
-export type Subject = 'history' | 'cca' | 'science' | 'social-studies' | 'business' | 'crs' | 'scs' | 'phe' | 'ict';
+export type Subject = 'history' | 'cca' | 'science' | 'social-studies' | 'business' | 'crs' | 'scs' | 'phe' | 'ict' | 'vocational';
 
 export interface Question {
   id: number;

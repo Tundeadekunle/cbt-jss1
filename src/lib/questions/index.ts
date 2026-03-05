@@ -7,6 +7,8 @@ import { businessQuestions } from './business';
 import { crsQuestions } from './crs';
 import {pheQuestions} from './phe';
 import {ictQuestions} from './ict';
+import { vocationalQuestions } from './vocation';
+
 
 export const getQuestionsBySubject = (subject: Subject): Question[] => {
   switch (subject) {
@@ -26,7 +28,10 @@ export const getQuestionsBySubject = (subject: Subject): Question[] => {
       return crsQuestions;
     case 'science':
       return scienceQuestions;
-    
+      return ictQuestions;
+      case 'vocational':
+      return vocationalQuestions;
+
     default:
       return historyQuestions;
   }
@@ -55,6 +60,8 @@ export const getSubjectDisplayName = (subject: Subject): string => {
       return 'Business Studies';
     case 'science':
       return 'Basic Science and Technology';
+      case 'vocational':
+      return 'Vocational Studies';
     
     default:
       return 'CCA';
@@ -62,5 +69,5 @@ export const getSubjectDisplayName = (subject: Subject): string => {
 };
 
 export const getAllSubjects = (): Subject[] => {
-  return ['history', 'cca', 'crs', 'science', 'business', 'scs', 'phe', 'ict'];
+  return ['history', 'cca', 'crs', 'science', 'business', 'scs', 'phe', 'ict', 'vocational'];
 };

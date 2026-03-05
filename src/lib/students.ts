@@ -6,7 +6,7 @@ export const students: Student[] = [
     name: 'Oyenola Paul', 
     class: 'JSS 1', 
     email: 'sodim@school.edu',
-    subjects: [ 'science', 'history', 'cca', 'crs', 'scs', 'phe', 'ict', 'business']
+    subjects: [ 'science', 'history', 'cca', 'crs', 'scs', 'phe', 'ict', 'business', 'vocational']
   },
   
 { 
@@ -14,14 +14,14 @@ export const students: Student[] = [
     name: 'Wale Seun', 
     class: 'BASIC VI', 
     email: 'jsy@school.edu',
-    subjects: [ 'science', 'history', 'cca', 'crs', 'scs', 'phe', 'ict', 'business']
+    subjects: [ 'science', 'history', 'cca', 'crs', 'scs', 'phe', 'ict', 'business', 'vocational']
   },
   { 
     id: 'MTH0028STU', 
     name: 'Kay Will', 
     class: 'JSS 2', 
     email: 'jsy@school.edu',
-    subjects: ['science', 'history', 'cca', 'crs', 'scs', 'phe', 'ict', 'business']
+    subjects: ['science', 'history', 'cca', 'crs', 'scs', 'phe', 'ict', 'business', 'vocational']
   },
   
   // Add more students...
