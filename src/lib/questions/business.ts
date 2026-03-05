@@ -1,844 +1,425 @@
 import { Question } from '@/types';
 
 export const businessQuestions: Question[] = [
+  // Section A: Multiple Choice Questions (30 Questions)
   {
     id: 1,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Business Studies is the study of _______.",
+    question: "Production means ______.",
     options: [
-      "plants and animals",
-      "buying and selling activities",
-      "drawing and painting",
-      "cooking and baking"
+      "buying goods",
+      "making goods and services",
+      "stealing goods",
+      "wasting goods"
     ],
-    correctAnswer: "buying and selling activities",
+    correctAnswer: "making goods and services",
     marks: 1
   },
   {
     id: 2,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Which of the following is not a part of Business Studies?",
+    question: "The factors of production include land, labour, capital and ______.",
     options: [
-      "Office practice",
-      "Commerce",
-      "Home economics",
-      "Book-keeping"
+      "money",
+      "entrepreneur",
+      "market",
+      "customer"
     ],
-    correctAnswer: "Home economics",
+    correctAnswer: "entrepreneur",
     marks: 1
   },
   {
     id: 3,
     type: 'multiple-choice',
     subject: 'business',
-    question: "The main aim of studying Business Studies is to ______.",
+    question: "Land as a factor of production includes ______.",
     options: [
-      "become a doctor",
-      "learn how to manage business activities",
-      "learn how to play football",
-      "become a musician"
+      "machines",
+      "natural resources",
+      "workers",
+      "money"
     ],
-    correctAnswer: "learn how to manage business activities",
+    correctAnswer: "natural resources",
     marks: 1
   },
   {
     id: 4,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Business Studies helps students to become ______.",
+    question: "Labour refers to ______.",
     options: [
-      "farmers only",
-      "responsible citizens",
-      "business-minded individuals",
-      "both B and C"
+      "natural resources",
+      "human effort",
+      "machines",
+      "buildings"
     ],
-    correctAnswer: "both B and C",
+    correctAnswer: "human effort",
     marks: 1
   },
   {
     id: 5,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Which of these is a branch of Business Studies?",
+    question: "Capital in production means ______.",
     options: [
-      "Commerce",
-      "Book-keeping",
-      "Office Practice",
-      "All of the above"
+      "cash only",
+      "tools and machines",
+      "customers",
+      "market"
     ],
-    correctAnswer: "All of the above",
+    correctAnswer: "tools and machines",
     marks: 1
   },
   {
     id: 6,
     type: 'multiple-choice',
     subject: 'business',
-    question: "The buying and selling of goods and services is called ______.",
+    question: "Production can be classified into ______ types.",
     options: [
-      "Production",
-      "Commerce",
-      "Agriculture",
-      "Transportation"
+      "one",
+      "two",
+      "three",
+      "four"
     ],
-    correctAnswer: "Commerce",
+    correctAnswer: "three",
     marks: 1
   },
   {
     id: 7,
     type: 'multiple-choice',
     subject: 'business',
-    question: "The study of how records of money are kept in business is known as ______.",
+    question: "Creating goods for personal use is called ______ production.",
     options: [
-      "Shorthand",
-      "Book-keeping",
-      "Typewriting",
-      "Commerce"
+      "subsistence",
+      "commercial",
+      "indirect",
+      "mass"
     ],
-    correctAnswer: "Book-keeping",
+    correctAnswer: "subsistence",
     marks: 1
   },
   {
     id: 8,
     type: 'multiple-choice',
     subject: 'business',
-    question: "The study of office work and how it is done is called ______.",
+    question: "Manufacturing is an example of ______ production.",
     options: [
-      "Office Practice",
-      "Commerce",
-      "Book-keeping",
-      "Agriculture"
+      "primary",
+      "secondary",
+      "tertiary",
+      "personal"
     ],
-    correctAnswer: "Office Practice",
+    correctAnswer: "secondary",
     marks: 1
   },
   {
     id: 9,
     type: 'multiple-choice',
     subject: 'business',
-    question: "One of the importance of Business Studies is that it teaches students how to ______.",
+    question: "Occupation means ______.",
     options: [
-      "run a business effectively",
-      "repair cars",
-      "cook food",
-      "dance"
+      "play",
+      "hobby",
+      "job or work",
+      "sport"
     ],
-    correctAnswer: "run a business effectively",
+    correctAnswer: "job or work",
     marks: 1
   },
   {
     id: 10,
     type: 'multiple-choice',
     subject: 'business',
-    question: "The person who starts and manages a business is called a(n) ______.",
+    question: "A doctor belongs to the ______ occupation.",
     options: [
-      "teacher",
-      "entrepreneur",
-      "accountant",
-      "secretary"
+      "extractive",
+      "manufacturing",
+      "service",
+      "trading"
     ],
-    correctAnswer: "entrepreneur",
+    correctAnswer: "service",
     marks: 1
   },
   {
     id: 11,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Business Studies prepares students for ______ life.",
+    question: "Farming is an example of ______ occupation.",
     options: [
-      "spiritual",
-      "political",
-      "economic",
-      "cultural"
+      "commercial",
+      "extractive",
+      "professional",
+      "clerical"
     ],
-    correctAnswer: "economic",
+    correctAnswer: "extractive",
     marks: 1
   },
   {
     id: 12,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Business Studies teaches ______ skills.",
+    question: "Trading involves ______.",
     options: [
-      "writing and communication",
-      "business and vocational",
-      "entertainment",
-      "physical education"
+      "producing goods",
+      "buying and selling goods",
+      "teaching",
+      "mining"
     ],
-    correctAnswer: "business and vocational",
+    correctAnswer: "buying and selling goods",
     marks: 1
   },
   {
     id: 13,
     type: 'multiple-choice',
     subject: 'business',
-    question: "The act of taking notes quickly using symbols is called ______.",
+    question: "A teacher belongs to the ______ occupation.",
     options: [
-      "Book-keeping",
-      "Shorthand",
-      "Typing",
-      "Reading"
+      "service",
+      "extractive",
+      "manufacturing",
+      "farming"
     ],
-    correctAnswer: "Shorthand",
+    correctAnswer: "service",
     marks: 1
   },
   {
     id: 14,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Typewriting is used mainly for ______.",
+    question: "Mining is an example of ______ occupation.",
     options: [
-      "making designs",
-      "producing written documents",
-      "drawing shapes",
-      "playing games"
+      "service",
+      "extractive",
+      "trading",
+      "clerical"
     ],
-    correctAnswer: "producing written documents",
+    correctAnswer: "extractive",
     marks: 1
   },
   {
     id: 15,
     type: 'multiple-choice',
     subject: 'business',
-    question: "The study of Business Studies helps students to become ______ in future.",
+    question: "People choose occupations based on their ______.",
     options: [
-      "civil servants",
-      "self-employed",
-      "farmers only",
-      "singers"
+      "height",
+      "interest and skills",
+      "age only",
+      "friends"
     ],
-    correctAnswer: "self-employed",
+    correctAnswer: "interest and skills",
     marks: 1
   },
   {
     id: 16,
     type: 'multiple-choice',
     subject: 'business',
-    question: "An office is a place where ______.",
+    question: "Honesty in business means ______.",
     options: [
-      "goods are sold",
-      "records are kept and business activities are controlled",
-      "people sleep",
-      "food is cooked"
+      "cheating customers",
+      "telling lies",
+      "being truthful",
+      "overpricing goods"
     ],
-    correctAnswer: "records are kept and business activities are controlled",
+    correctAnswer: "being truthful",
     marks: 1
   },
   {
     id: 17,
     type: 'multiple-choice',
     subject: 'business',
-    question: "The main purpose of an office is to ______.",
+    question: "Giving correct change to customers shows ______.",
     options: [
-      "keep animals",
-      "keep records and process information",
-      "play games",
-      "store food"
+      "dishonesty",
+      "pride",
+      "honesty",
+      "weakness"
     ],
-    correctAnswer: "keep records and process information",
+    correctAnswer: "honesty",
     marks: 1
   },
   {
     id: 18,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Which of the following is a type of office?",
+    question: "One effect of dishonesty in business is loss of ______.",
     options: [
-      "Big office and small office",
-      "Home office and school office",
-      "Main office and side office",
-      "Modern office and traditional office"
+      "trust",
+      "profit",
+      "customers",
+      "all of the above"
     ],
-    correctAnswer: "Big office and small office",
+    correctAnswer: "all of the above",
     marks: 1
   },
   {
     id: 19,
     type: 'multiple-choice',
     subject: 'business',
-    question: "A large office is usually found in ______.",
+    question: "Fair measurement in selling goods promotes ______.",
     options: [
-      "a village market",
-      "a big organization",
-      "a classroom",
-      "a church"
+      "cheating",
+      "trust",
+      "conflict",
+      "dishonesty"
     ],
-    correctAnswer: "a big organization",
+    correctAnswer: "trust",
     marks: 1
   },
   {
     id: 20,
     type: 'multiple-choice',
     subject: 'business',
-    question: "A small office is usually managed by ______.",
+    question: "Keeping proper records in business shows ______.",
     options: [
-      "many workers",
-      "one or two people",
-      "the government",
-      "a group of students"
+      "laziness",
+      "responsibility",
+      "dishonesty",
+      "weakness"
     ],
-    correctAnswer: "one or two people",
+    correctAnswer: "responsibility",
     marks: 1
   },
   {
     id: 21,
     type: 'multiple-choice',
     subject: 'business',
-    question: "One of the functions of an office is ______.",
+    question: "A dishonest trader may lose his ______.",
     options: [
-      "watching television",
-      "receiving and sending information",
-      "selling goods",
-      "sleeping"
+      "friends",
+      "customers",
+      "pen",
+      "house"
     ],
-    correctAnswer: "receiving and sending information",
+    correctAnswer: "customers",
     marks: 1
   },
   {
     id: 22,
     type: 'multiple-choice',
     subject: 'business',
-    question: "The office helps management to make decisions through ______.",
+    question: "Selling expired goods is an act of ______.",
     options: [
-      "entertainment",
-      "accurate records and reports",
-      "guessing",
-      "storytelling"
+      "honesty",
+      "fairness",
+      "dishonesty",
+      "kindness"
     ],
-    correctAnswer: "accurate records and reports",
+    correctAnswer: "dishonesty",
     marks: 1
   },
   {
     id: 23,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Which of the following is an example of office equipment?",
+    question: "An entrepreneur is a person who ______.",
     options: [
-      "Table and chair",
-      "Stove",
-      "Bed",
-      "Blackboard"
+      "buys only",
+      "sells only",
+      "organizes and manages a business",
+      "works for government"
     ],
-    correctAnswer: "Table and chair",
+    correctAnswer: "organizes and manages a business",
     marks: 1
   },
   {
     id: 24,
     type: 'multiple-choice',
     subject: 'business',
-    question: "The department that receives visitors in an office is called the ______.",
+    question: "Entrepreneurship involves taking ______.",
     options: [
-      "library",
-      "reception",
-      "classroom",
-      "workshop"
+      "risk",
+      "rest",
+      "sleep",
+      "holiday"
     ],
-    correctAnswer: "reception",
+    correctAnswer: "risk",
     marks: 1
   },
   {
     id: 25,
     type: 'multiple-choice',
     subject: 'business',
-    question: "The process of keeping written information for future reference is called ______.",
+    question: "One quality of a good entrepreneur is ______.",
     options: [
-      "recording",
-      "reading",
-      "drawing",
-      "decoration"
+      "laziness",
+      "creativity",
+      "fear",
+      "anger"
     ],
-    correctAnswer: "recording",
+    correctAnswer: "creativity",
     marks: 1
   },
   {
     id: 26,
     type: 'multiple-choice',
     subject: 'business',
-    question: "The part of the office that handles letters coming in and going out is called ______.",
+    question: "Capital for starting a business can come from ______.",
     options: [
-      "typing pool",
-      "mail room",
-      "reception",
-      "store"
+      "savings",
+      "loans",
+      "family support",
+      "all of the above"
     ],
-    correctAnswer: "mail room",
+    correctAnswer: "all of the above",
     marks: 1
   },
   {
     id: 27,
     type: 'multiple-choice',
     subject: 'business',
-    question: "A secretary works mainly in ______.",
+    question: "A small business owner is also called a ______.",
     options: [
-      "the classroom",
-      "the office",
-      "the kitchen",
-      "the field"
+      "manager",
+      "entrepreneur",
+      "customer",
+      "producer only"
     ],
-    correctAnswer: "the office",
+    correctAnswer: "entrepreneur",
     marks: 1
   },
   {
     id: 28,
     type: 'multiple-choice',
     subject: 'business',
-    question: "The office helps to control and coordinate ______.",
+    question: "One aim of entrepreneurship is to make ______.",
     options: [
-      "home activities",
-      "business activities",
-      "church activities",
-      "school lessons"
+      "loss",
+      "profit",
+      "waste",
+      "debt"
     ],
-    correctAnswer: "business activities",
+    correctAnswer: "profit",
     marks: 1
   },
   {
     id: 29,
     type: 'multiple-choice',
     subject: 'business',
-    question: "The person who heads an office is called a ______.",
+    question: "Identifying business opportunities requires ______.",
     options: [
-      "teacher",
-      "manager",
-      "tailor",
-      "mechanic"
+      "observation",
+      "carelessness",
+      "laziness",
+      "anger"
     ],
-    correctAnswer: "manager",
+    correctAnswer: "observation",
     marks: 1
   },
   {
     id: 30,
     type: 'multiple-choice',
     subject: 'business',
-    question: "The main types of office are ______.",
+    question: "Entrepreneurship helps to reduce ______.",
     options: [
-      "large and small offices",
-      "old and new offices",
-      "government and private offices",
-      "male and female offices"
+      "employment",
+      "poverty",
+      "skills",
+      "income"
     ],
-    correctAnswer: "large and small offices",
-    marks: 1
-  },
-  {
-    id: 31,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "One of the functions of an office is to store ______.",
-    options: [
-      "people",
-      "records and information",
-      "food",
-      "vehicles"
-    ],
-    correctAnswer: "records and information",
-    marks: 1
-  },
-  {
-    id: 32,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "The office that deals with payments and money matters is the ______ department.",
-    options: [
-      "accounts",
-      "personnel",
-      "mail room",
-      "typing pool"
-    ],
-    correctAnswer: "accounts",
-    marks: 1
-  },
-  {
-    id: 33,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "A place where letters and files are kept for reference is called a ______.",
-    options: [
-      "restaurant",
-      "store",
-      "filing cabinet",
-      "cupboard"
-    ],
-    correctAnswer: "filing cabinet",
-    marks: 1
-  },
-  {
-    id: 34,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "Which of the following is not a function of an office?",
-    options: [
-      "Keeping records",
-      "Receiving and sending messages",
-      "Playing games",
-      "Providing information"
-    ],
-    correctAnswer: "Playing games",
-    marks: 1
-  },
-  {
-    id: 35,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "The office serves as the ______ of a business.",
-    options: [
-      "body",
-      "brain",
-      "hand",
-      "leg"
-    ],
-    correctAnswer: "brain",
-    marks: 1
-  },
-  {
-    id: 36,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "An occupation is a job or work that people do to ______.",
-    options: [
-      "play games",
-      "earn a living",
-      "travel around",
-      "rest at home"
-    ],
-    correctAnswer: "earn a living",
-    marks: 1
-  },
-  {
-    id: 37,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "The main reason why people engage in occupation is to ______.",
-    options: [
-      "waste time",
-      "get money and meet their needs",
-      "make friends",
-      "become famous"
-    ],
-    correctAnswer: "get money and meet their needs",
-    marks: 1
-  },
-  {
-    id: 38,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "Which of the following is an example of a skilled occupation?",
-    options: [
-      "Teaching",
-      "Farming",
-      "Street sweeping",
-      "Trading"
-    ],
-    correctAnswer: "Teaching",
-    marks: 1
-  },
-  {
-    id: 39,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "Which of these is a primary occupation?",
-    options: [
-      "Banking",
-      "Mining",
-      "Teaching",
-      "Tailoring"
-    ],
-    correctAnswer: "Mining",
-    marks: 1
-  },
-  {
-    id: 40,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "The occupation that deals with the production of raw materials is called ______.",
-    options: [
-      "Secondary occupation",
-      "Primary occupation",
-      "Tertiary occupation",
-      "Industrial occupation"
-    ],
-    correctAnswer: "Primary occupation",
-    marks: 1
-  },
-  {
-    id: 41,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "The occupation that turns raw materials into finished goods is called ______.",
-    options: [
-      "Primary occupation",
-      "Secondary occupation",
-      "Tertiary occupation",
-      "Informal occupation"
-    ],
-    correctAnswer: "Secondary occupation",
-    marks: 1
-  },
-  {
-    id: 42,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "The occupation that provides services to people is called ______.",
-    options: [
-      "Secondary occupation",
-      "Primary occupation",
-      "Tertiary occupation",
-      "Agricultural occupation"
-    ],
-    correctAnswer: "Tertiary occupation",
-    marks: 1
-  },
-  {
-    id: 43,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "Which of these is an example of a tertiary occupation?",
-    options: [
-      "Fishing",
-      "Banking",
-      "Mining",
-      "Farming"
-    ],
-    correctAnswer: "Banking",
-    marks: 1
-  },
-  {
-    id: 44,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "The farmer who grows crops is engaged in a ______ occupation.",
-    options: [
-      "Primary",
-      "Secondary",
-      "Tertiary",
-      "Industrial"
-    ],
-    correctAnswer: "Primary",
-    marks: 1
-  },
-  {
-    id: 45,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "A carpenter belongs to which type of occupation?",
-    options: [
-      "Primary",
-      "Secondary",
-      "Tertiary",
-      "Informal"
-    ],
-    correctAnswer: "Secondary",
-    marks: 1
-  },
-  {
-    id: 46,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "A teacher is engaged in a ______ occupation.",
-    options: [
-      "Primary",
-      "Secondary",
-      "Tertiary",
-      "Industrial"
-    ],
-    correctAnswer: "Tertiary",
-    marks: 1
-  },
-  {
-    id: 47,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "Occupations are grouped into how many main types?",
-    options: [
-      "Two",
-      "Three",
-      "Four",
-      "Five"
-    ],
-    correctAnswer: "Three",
-    marks: 1
-  },
-  {
-    id: 48,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "Which of these is not an example of a primary occupation?",
-    options: [
-      "Farming",
-      "Fishing",
-      "Mining",
-      "Tailoring"
-    ],
-    correctAnswer: "Tailoring",
-    marks: 1
-  },
-  {
-    id: 49,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "People who make goods from raw materials are called ______.",
-    options: [
-      "Producers",
-      "Consumers",
-      "Distributors",
-      "Sellers"
-    ],
-    correctAnswer: "Producers",
-    marks: 1
-  },
-  {
-    id: 50,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "The act of selling and distributing goods to customers is a ______ occupation.",
-    options: [
-      "Primary",
-      "Secondary",
-      "Tertiary",
-      "Industrial"
-    ],
-    correctAnswer: "Tertiary",
-    marks: 1
-  },
-  {
-    id: 51,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "An occupation that requires training or special skills is called a ______ occupation.",
-    options: [
-      "Skilled",
-      "Unskilled",
-      "Informal",
-      "Manual"
-    ],
-    correctAnswer: "Skilled",
-    marks: 1
-  },
-  {
-    id: 52,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "Which of these occupations is unskilled?",
-    options: [
-      "Doctor",
-      "Lawyer",
-      "Labourer",
-      "Mechanic"
-    ],
-    correctAnswer: "Labourer",
-    marks: 1
-  },
-  {
-    id: 53,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "A fisherman is involved in a ______ occupation.",
-    options: [
-      "Primary",
-      "Secondary",
-      "Tertiary",
-      "Informal"
-    ],
-    correctAnswer: "Primary",
-    marks: 1
-  },
-  {
-    id: 54,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "The occupation that provides health services to people is ______.",
-    options: [
-      "Medicine",
-      "Tailoring",
-      "Teaching",
-      "Farming"
-    ],
-    correctAnswer: "Medicine",
-    marks: 1
-  },
-  {
-    id: 55,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "All occupations are important because ______.",
-    options: [
-      "they help people to sleep",
-      "they make people lazy",
-      "they help in the development of society",
-      "they cause quarrels"
-    ],
-    correctAnswer: "they help in the development of society",
-    marks: 1
-  },
-  {
-    id: 56,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "Trade is the act of ______.",
-    options: [
-      "teaching in schools",
-      "buying and selling of goods and services",
-      "keeping records",
-      "working in offices"
-    ],
-    correctAnswer: "buying and selling of goods and services",
-    marks: 1
-  },
-  {
-    id: 57,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "Commerce is wider than trade because it includes ______.",
-    options: [
-      "only buying and selling",
-      "all activities that help trade to take place",
-      "playing and dancing",
-      "farming only"
-    ],
-    correctAnswer: "all activities that help trade to take place",
-    marks: 1
-  },
-  {
-    id: 58,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "The two main types of trade are ______.",
-    options: [
-      "Local and foreign trade",
-      "Wholesale and retail trade",
-      "Buying and selling",
-      "Import and export trade"
-    ],
-    correctAnswer: "Local and foreign trade",
-    marks: 1
-  },
-  {
-    id: 59,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "Buying and selling of goods within a country is called ______.",
-    options: [
-      "Foreign trade",
-      "Home trade",
-      "Export trade",
-      "Import trade"
-    ],
-    correctAnswer: "Home trade",
-    marks: 1
-  },
-  {
-    id: 60,
-    type: 'multiple-choice',
-    subject: 'business',
-    question: "The trade between two or more countries is known as ______.",
-    options: [
-      "Home trade",
-      "Foreign trade",
-      "Local trade",
-      "Retail trade"
-    ],
-    correctAnswer: "Foreign trade",
+    correctAnswer: "poverty",
     marks: 1
   }
 ];

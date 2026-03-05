@@ -1,844 +1,425 @@
 import { Question } from '@/types';
 
 export const pheQuestions: Question[] = [
+  // Section A: Multiple Choice Questions (30 Questions)
   {
     id: 1,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Physical fitness primarily helps improve the efficiency of the ___ system.",
+    question: "Recreation helps to improve our ______.",
     options: [
-      "Digestive",
-      "Respiratory",
-      "Circulatory",
-      "Nervous"
+      "sickness",
+      "laziness",
+      "health",
+      "weakness"
     ],
-    correctAnswer: "Circulatory",
+    correctAnswer: "health",
     marks: 1
   },
   {
     id: 2,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Which of the following is a component of physical fitness?",
+    question: "One social benefit of dance is ______.",
     options: [
-      "Flexibility",
-      "Height",
-      "Eye colour",
-      "Blood type"
+      "isolation",
+      "cooperation",
+      "hatred",
+      "quarrel"
     ],
-    correctAnswer: "Flexibility",
+    correctAnswer: "cooperation",
     marks: 1
   },
   {
     id: 3,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Regular physical activity reduces the risk of:",
+    question: "Recreation helps to reduce ______.",
     options: [
-      "Obesity",
-      "Common cold",
-      "Nearsightedness",
-      "Hair fall"
+      "joy",
+      "stress",
+      "strength",
+      "growth"
     ],
-    correctAnswer: "Obesity",
+    correctAnswer: "stress",
     marks: 1
   },
   {
     id: 4,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Strength training mainly improves:",
+    question: "Dancing regularly improves ______ fitness.",
     options: [
-      "Muscular strength",
-      "Flexibility",
-      "Balance",
-      "Endurance"
+      "mental",
+      "physical",
+      "emotional",
+      "all of the above"
     ],
-    correctAnswer: "Muscular strength",
+    correctAnswer: "all of the above",
     marks: 1
   },
   {
     id: 5,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Cardiovascular exercises mainly work on the:",
+    question: "One example of recreational activity is ______.",
     options: [
-      "Heart and lungs",
-      "Bones",
-      "Teeth",
-      "Eyes"
+      "sleeping",
+      "football",
+      "crying",
+      "fighting"
     ],
-    correctAnswer: "Heart and lungs",
+    correctAnswer: "football",
     marks: 1
   },
   {
     id: 6,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Which is an example of aerobic exercise?",
+    question: "Recreation can promote ______ among students.",
     options: [
-      "Weightlifting",
-      "Sprinting",
-      "Swimming",
-      "Push-ups"
+      "unity",
+      "disunity",
+      "anger",
+      "selfishness"
     ],
-    correctAnswer: "Swimming",
+    correctAnswer: "unity",
     marks: 1
   },
   {
     id: 7,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Which exercise is best for improving flexibility?",
+    question: "Dance helps to improve body ______.",
     options: [
-      "Sprinting",
-      "Stretching",
-      "Cycling",
-      "Skipping"
+      "weakness",
+      "balance",
+      "illness",
+      "fear"
     ],
-    correctAnswer: "Stretching",
+    correctAnswer: "balance",
     marks: 1
   },
   {
     id: 8,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Yoga is considered a form of:",
+    question: "One mental benefit of recreation is improved ______.",
     options: [
-      "Aerobic exercise",
-      "Anaerobic exercise",
-      "Mind-body exercise",
-      "Speed training"
+      "confusion",
+      "sadness",
+      "concentration",
+      "stress"
     ],
-    correctAnswer: "Mind-body exercise",
+    correctAnswer: "concentration",
     marks: 1
   },
   {
     id: 9,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "The ability of the body to use oxygen efficiently is:",
+    question: "Shot put is a field event in ______.",
     options: [
-      "Flexibility",
-      "Cardiovascular endurance",
-      "Muscular power",
-      "Agility"
+      "swimming",
+      "athletics",
+      "boxing",
+      "wrestling"
     ],
-    correctAnswer: "Cardiovascular endurance",
+    correctAnswer: "athletics",
     marks: 1
   },
   {
     id: 10,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Which of the following improves balance?",
+    question: "The shot in shot put is made of ______.",
     options: [
-      "Plank",
-      "Skipping",
-      "Tai Chi",
-      "Weightlifting"
+      "rubber",
+      "leather",
+      "metal",
+      "wood"
     ],
-    correctAnswer: "Tai Chi",
+    correctAnswer: "metal",
     marks: 1
   },
   {
     id: 11,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Warming up helps in:",
+    question: "The shot is held close to the ______ before throwing.",
     options: [
-      "Increasing injury risk",
-      "Reducing flexibility",
-      "Preparing body for exercise",
-      "Slowing blood circulation"
+      "leg",
+      "shoulder",
+      "neck",
+      "waist"
     ],
-    correctAnswer: "Preparing body for exercise",
+    correctAnswer: "neck",
     marks: 1
   },
   {
     id: 12,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Cooling down helps to:",
+    question: "Shot put is thrown with ______ hand.",
     options: [
-      "Increase heart rate quickly",
-      "Prevent muscle soreness",
-      "Cause dehydration",
-      "Reduce flexibility"
+      "one",
+      "two",
+      "three",
+      "none"
     ],
-    correctAnswer: "Prevent muscle soreness",
+    correctAnswer: "one",
     marks: 1
   },
   {
     id: 13,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "A sedentary lifestyle mainly leads to:",
+    question: "The throwing circle in shot put is made of ______.",
     options: [
-      "Good posture",
-      "Strong muscles",
-      "Obesity and low stamina",
-      "Increased fitness"
+      "sand",
+      "concrete",
+      "water",
+      "grass"
     ],
-    correctAnswer: "Obesity and low stamina",
+    correctAnswer: "concrete",
     marks: 1
   },
   {
     id: 14,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Anaerobic exercise includes:",
+    question: "The aim in shot put is to throw the shot as ______ as possible.",
     options: [
-      "Long-distance running",
-      "Brisk walking",
-      "Weightlifting",
-      "Yoga"
+      "short",
+      "high",
+      "far",
+      "slow"
     ],
-    correctAnswer: "Weightlifting",
+    correctAnswer: "far",
     marks: 1
   },
   {
     id: 15,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Which exercise is best for strengthening bones?",
+    question: "One basic technique in shot put is the ______.",
     options: [
-      "Running",
-      "Swimming",
-      "Cycling",
-      "None"
+      "glide",
+      "kick",
+      "jump",
+      "roll"
     ],
-    correctAnswer: "Running",
+    correctAnswer: "glide",
     marks: 1
   },
   {
     id: 16,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Skipping primarily improves:",
+    question: "Proper warm-up helps to prevent ______.",
     options: [
-      "Balance",
-      "Cardiovascular endurance",
-      "Eye-hand coordination",
-      "Flexibility"
+      "injury",
+      "success",
+      "strength",
+      "speed"
     ],
-    correctAnswer: "Cardiovascular endurance",
+    correctAnswer: "injury",
     marks: 1
   },
   {
     id: 17,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Physical fitness helps in maintaining:",
+    question: "Good posture is important during athletic ______.",
     options: [
-      "Mental well-being",
-      "High stress levels",
-      "Poor posture",
-      "Fatigue"
+      "rest",
+      "execution",
+      "sleep",
+      "eating"
     ],
-    correctAnswer: "Mental well-being",
+    correctAnswer: "execution",
     marks: 1
   },
   {
     id: 18,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "The ability to move joints through full range of motion is:",
+    question: "Following the rules in athletics ensures ______.",
     options: [
-      "Strength",
-      "Endurance",
-      "Flexibility",
-      "Speed"
+      "cheating",
+      "fairness",
+      "punishment",
+      "confusion"
     ],
-    correctAnswer: "Flexibility",
+    correctAnswer: "fairness",
     marks: 1
   },
   {
     id: 19,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Which is not a component of fitness?",
+    question: "The correct grip is important in throwing events for better ______.",
     options: [
-      "Agility",
-      "Balance",
-      "Reflexes",
-      "Hair colour"
+      "control",
+      "fear",
+      "weakness",
+      "laziness"
     ],
-    correctAnswer: "Hair colour",
+    correctAnswer: "control",
     marks: 1
   },
   {
     id: 20,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "The exercise that builds core strength is:",
+    question: "Balance and coordination are important in ______ events.",
     options: [
-      "Cycling",
-      "Plank",
-      "Walking",
-      "Swimming"
+      "throwing",
+      "singing",
+      "drawing",
+      "reading"
     ],
-    correctAnswer: "Plank",
+    correctAnswer: "throwing",
     marks: 1
   },
   {
     id: 21,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Personal hygiene helps prevent:",
+    question: "An athlete must stay inside the circle until the ______ lands.",
     options: [
-      "Infectious diseases",
-      "Height growth",
-      "Hair colour change",
-      "Sunlight exposure"
+      "whistle",
+      "coach",
+      "implement",
+      "shoe"
     ],
-    correctAnswer: "Infectious diseases",
+    correctAnswer: "implement",
     marks: 1
   },
   {
     id: 22,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Washing hands should last at least:",
+    question: "Safety rules should always be ______ during athletics.",
     options: [
-      "5 seconds",
-      "10 seconds",
-      "20 seconds",
-      "2 minutes"
+      "ignored",
+      "followed",
+      "broken",
+      "avoided"
     ],
-    correctAnswer: "20 seconds",
+    correctAnswer: "followed",
     marks: 1
   },
   {
     id: 23,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Brushing teeth should be done:",
+    question: "Discus throw is also a ______ event.",
     options: [
-      "Once a week",
-      "Twice a day",
-      "Only at night",
-      "Only in the morning"
+      "track",
+      "field",
+      "indoor",
+      "swimming"
     ],
-    correctAnswer: "Twice a day",
+    correctAnswer: "field",
     marks: 1
   },
   {
     id: 24,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Sanitation mainly refers to:",
+    question: "The discus is usually thrown with ______ hand.",
     options: [
-      "Clean water and waste disposal",
-      "Eating habits",
-      "Sleeping patterns",
-      "Dressing style"
+      "one",
+      "two",
+      "three",
+      "none"
     ],
-    correctAnswer: "Clean water and waste disposal",
+    correctAnswer: "one",
     marks: 1
   },
   {
     id: 25,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Lack of sanitation leads to:",
+    question: "The discus is thrown from inside a ______.",
     options: [
-      "Increased immunity",
-      "Disease spread",
-      "Fresh environment",
-      "Better nutrition"
+      "square",
+      "circle",
+      "triangle",
+      "line"
     ],
-    correctAnswer: "Disease spread",
+    correctAnswer: "circle",
     marks: 1
   },
   {
     id: 26,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Bathing regularly helps remove:",
+    question: "Before throwing the discus, the athlete makes a ______.",
     options: [
-      "Sweat and germs",
-      "Calcium",
-      "Vitamins",
-      "Blood cells"
+      "spin",
+      "clap",
+      "jump",
+      "sit"
     ],
-    correctAnswer: "Sweat and germs",
+    correctAnswer: "spin",
     marks: 1
   },
   {
     id: 27,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Which of the following prevents body odour?",
+    question: "The release of the discus should be at about ______ degrees for best performance.",
     options: [
-      "Not bathing",
-      "Wearing dirty clothes",
-      "Good personal hygiene",
-      "Eating junk food"
+      "10°",
+      "45°",
+      "90°",
+      "180°"
     ],
-    correctAnswer: "Good personal hygiene",
+    correctAnswer: "45°",
     marks: 1
   },
   {
     id: 28,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Safe drinking water must be:",
+    question: "The discus is made of ______.",
     options: [
-      "Polluted",
-      "Dirty",
-      "Boiled or filtered",
-      "Salty"
+      "metal and wood",
+      "cloth",
+      "paper",
+      "rubber only"
     ],
-    correctAnswer: "Boiled or filtered",
+    correctAnswer: "metal and wood",
     marks: 1
   },
   {
     id: 29,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "The main cause of diarrheal diseases is:",
+    question: "After throwing the discus, the athlete must exit from the ______ of the circle.",
     options: [
-      "Clean water",
-      "Contaminated food/water",
-      "Exercise",
-      "Sleep"
+      "front",
+      "side",
+      "back",
+      "top"
     ],
-    correctAnswer: "Contaminated food/water",
+    correctAnswer: "back",
     marks: 1
   },
   {
     id: 30,
     type: 'multiple-choice',
     subject: 'phe',
-    question: "Nail hygiene prevents:",
+    question: "The main aim in discus throw is to throw the discus as ______ as possible.",
     options: [
-      "Headache",
-      "Muscle growth",
-      "Germ accumulation",
-      "Height increase"
+      "near",
+      "slow",
+      "far",
+      "low"
     ],
-    correctAnswer: "Germ accumulation",
-    marks: 1
-  },
-  {
-    id: 31,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Using a handkerchief while coughing helps prevent:",
-    options: [
-      "Social interaction",
-      "Disease spread",
-      "Breathing",
-      "Digestion"
-    ],
-    correctAnswer: "Disease spread",
-    marks: 1
-  },
-  {
-    id: 32,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Toilet waste should be disposed through:",
-    options: [
-      "Open fields",
-      "Lakes",
-      "Proper sewage system",
-      "Streets"
-    ],
-    correctAnswer: "Proper sewage system",
-    marks: 1
-  },
-  {
-    id: 33,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Garbage segregation helps in:",
-    options: [
-      "Waste management",
-      "Water pollution",
-      "Soil erosion",
-      "Air travel"
-    ],
-    correctAnswer: "Waste management",
-    marks: 1
-  },
-  {
-    id: 34,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Which is a good hygiene practice?",
-    options: [
-      "Sharing combs",
-      "Wearing unwashed clothes",
-      "Trimming nails",
-      "Not washing hands"
-    ],
-    correctAnswer: "Trimming nails",
-    marks: 1
-  },
-  {
-    id: 35,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Sanitation is important for:",
-    options: [
-      "Disease control",
-      "Increasing pollution",
-      "Wasting water",
-      "None"
-    ],
-    correctAnswer: "Disease control",
-    marks: 1
-  },
-  {
-    id: 36,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Mosquito breeding occurs in:",
-    options: [
-      "Clean flowing water",
-      "Stagnant water",
-      "Dry soil",
-      "Ice"
-    ],
-    correctAnswer: "Stagnant water",
-    marks: 1
-  },
-  {
-    id: 37,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Oral hygiene prevents:",
-    options: [
-      "Bone fractures",
-      "Tooth decay",
-      "High blood pressure",
-      "Fever"
-    ],
-    correctAnswer: "Tooth decay",
-    marks: 1
-  },
-  {
-    id: 38,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Personal hygiene includes:",
-    options: [
-      "Bathing",
-      "Wearing clean clothes",
-      "Handwashing",
-      "All of the above"
-    ],
-    correctAnswer: "All of the above",
-    marks: 1
-  },
-  {
-    id: 39,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Which disease spreads due to poor sanitation?",
-    options: [
-      "Diabetes",
-      "Cholera",
-      "Asthma",
-      "Anaemia"
-    ],
-    correctAnswer: "Cholera",
-    marks: 1
-  },
-  {
-    id: 40,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Wastewater treatment helps in:",
-    options: [
-      "Increasing pollution",
-      "Reducing water contamination",
-      "Spreading germs",
-      "Creating garbage"
-    ],
-    correctAnswer: "Reducing water contamination",
-    marks: 1
-  },
-  {
-    id: 41,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Nutrients are substances that:",
-    options: [
-      "Provide energy",
-      "Support growth",
-      "Maintain health",
-      "All of the above"
-    ],
-    correctAnswer: "All of the above",
-    marks: 1
-  },
-  {
-    id: 42,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Carbohydrates mainly provide:",
-    options: [
-      "Energy",
-      "Minerals",
-      "Vitamins",
-      "Fibre"
-    ],
-    correctAnswer: "Energy",
-    marks: 1
-  },
-  {
-    id: 43,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Proteins are required for:",
-    options: [
-      "Growth and repair",
-      "Energy storage",
-      "Vision",
-      "Digestion"
-    ],
-    correctAnswer: "Growth and repair",
-    marks: 1
-  },
-  {
-    id: 44,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Fats provide:",
-    options: [
-      "Quick energy",
-      "Long-term energy",
-      "Water",
-      "None"
-    ],
-    correctAnswer: "Long-term energy",
-    marks: 1
-  },
-  {
-    id: 45,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Which is a protective food?",
-    options: [
-      "Fruits and vegetables",
-      "Rice",
-      "Oil",
-      "Sugar"
-    ],
-    correctAnswer: "Fruits and vegetables",
-    marks: 1
-  },
-  {
-    id: 46,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Vitamin C is mainly found in:",
-    options: [
-      "Lemon and orange",
-      "Rice",
-      "Wheat",
-      "Milk"
-    ],
-    correctAnswer: "Lemon and orange",
-    marks: 1
-  },
-  {
-    id: 47,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Milk is a good source of:",
-    options: [
-      "Calcium",
-      "Vitamin C",
-      "Iron",
-      "Fibre"
-    ],
-    correctAnswer: "Calcium",
-    marks: 1
-  },
-  {
-    id: 48,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Roughage helps in:",
-    options: [
-      "Digestion",
-      "Vision",
-      "Blood clotting",
-      "Bone formation"
-    ],
-    correctAnswer: "Digestion",
-    marks: 1
-  },
-  {
-    id: 49,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Iron deficiency leads to:",
-    options: [
-      "Diabetes",
-      "Anaemia",
-      "Cholera",
-      "Obesity"
-    ],
-    correctAnswer: "Anaemia",
-    marks: 1
-  },
-  {
-    id: 50,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "A balanced diet includes:",
-    options: [
-      "Only fats",
-      "Only proteins",
-      "All nutrients in right amounts",
-      "Only carbohydrates"
-    ],
-    correctAnswer: "All nutrients in right amounts",
-    marks: 1
-  },
-  {
-    id: 51,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Which of the following is a carbohydrate-rich food?",
-    options: [
-      "Rice",
-      "Egg",
-      "Fish",
-      "Apple"
-    ],
-    correctAnswer: "Rice",
-    marks: 1
-  },
-  {
-    id: 52,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Body-building foods are:",
-    options: [
-      "Fats",
-      "Proteins",
-      "Vitamins",
-      "Minerals"
-    ],
-    correctAnswer: "Proteins",
-    marks: 1
-  },
-  {
-    id: 53,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Which vitamin is essential for vision?",
-    options: [
-      "Vitamin A",
-      "Vitamin D",
-      "Vitamin K",
-      "Vitamin B12"
-    ],
-    correctAnswer: "Vitamin A",
-    marks: 1
-  },
-  {
-    id: 54,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Which mineral helps build strong bones and teeth?",
-    options: [
-      "Iron",
-      "Calcium",
-      "Iodine",
-      "Zinc"
-    ],
-    correctAnswer: "Calcium",
-    marks: 1
-  },
-  {
-    id: 55,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "The deficiency of iodine causes:",
-    options: [
-      "Anaemia",
-      "Goitre",
-      "Tooth decay",
-      "Rickets"
-    ],
-    correctAnswer: "Goitre",
-    marks: 1
-  },
-  {
-    id: 56,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Fruits are rich in:",
-    options: [
-      "Vitamins and fibre",
-      "Proteins",
-      "Fats",
-      "Sodium"
-    ],
-    correctAnswer: "Vitamins and fibre",
-    marks: 1
-  },
-  {
-    id: 57,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "A diet high in junk food may cause:",
-    options: [
-      "Good health",
-      "Obesity",
-      "Strong immunity",
-      "Height increase"
-    ],
-    correctAnswer: "Obesity",
-    marks: 1
-  },
-  {
-    id: 58,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Drinking enough water helps maintain:",
-    options: [
-      "Hydration",
-      "Teeth colour",
-      "Pollution",
-      "Bone length"
-    ],
-    correctAnswer: "Hydration",
-    marks: 1
-  },
-  {
-    id: 59,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "Vitamin D is mainly obtained from:",
-    options: [
-      "Sunlight",
-      "Water",
-      "Salt",
-      "Sugar"
-    ],
-    correctAnswer: "Sunlight",
-    marks: 1
-  },
-  {
-    id: 60,
-    type: 'multiple-choice',
-    subject: 'phe',
-    question: "The best example of a balanced meal is:",
-    options: [
-      "Only fried food",
-      "Only fruits",
-      "Rice, dal, vegetables, salad",
-      "Only milk"
-    ],
-    correctAnswer: "Rice, dal, vegetables, salad",
+    correctAnswer: "far",
     marks: 1
   }
 ];
