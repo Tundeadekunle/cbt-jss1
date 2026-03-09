@@ -48,14 +48,14 @@ export const getSubjectDisplayName = (subject: Subject): string => {
       return 'History';
       case 'phe':
       return 'Physical and Health Education';
-      case 'ict':
-      return 'Information and Communication Technology';
+      // case 'ict':
+      // return 'Information and Communication Technology';
     case 'cca':
       return 'CCA';
       case 'crs':
       return 'CRS';
       case 'scs':
-      return 'Socila and Citizenship Studies';
+      return 'Social and Citizenship Studies';
       case 'business':
       return 'Business Studies';
     case 'science':
