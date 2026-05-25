@@ -8,6 +8,8 @@ import { crsQuestions } from './crs';
 import {pheQuestions} from './phe';
 import {ictQuestions} from './ict';
 import { vocationalQuestions } from './vocation';
+import { civicEducationQuestions } from './civic';
+import { securityEducationQuestions } from './security';
 
 
 export const getQuestionsBySubject = (subject: Subject): Question[] => {
@@ -31,7 +33,10 @@ export const getQuestionsBySubject = (subject: Subject): Question[] => {
       return ictQuestions;
       case 'vocational':
       return vocationalQuestions;
-
+      case 'civic-education':
+      return civicEducationQuestions;
+      case 'security-education':
+      return securityEducationQuestions;
     default:
       return historyQuestions;
   }
@@ -62,12 +67,13 @@ export const getSubjectDisplayName = (subject: Subject): string => {
       return 'Basic Science and Technology';
       case 'vocational':
       return 'Vocational Studies';
-    
+      case 'civic-education':
+      return 'Civic Education';
     default:
       return 'CCA';
   }
 };
 
 export const getAllSubjects = (): Subject[] => {
-  return ['history', 'cca', 'crs', 'science', 'business', 'scs', 'phe', 'ict', 'vocational'];
+  return ['history', 'cca', 'crs', 'science', 'business', 'scs', 'phe', 'ict', 'vocational', 'civic-education', 'security-education'];
 };

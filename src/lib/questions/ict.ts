@@ -5,68 +5,68 @@ export const ictQuestions: Question[] = [
     id: 1,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "ICT stands for:",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "Information and Communication Technology",
-      "International Communication Tools",
-      "Information Computer Typing",
-      "Internet Communication Training"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "Information and Communication Technology",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 2,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "ICT mainly deals with:",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "Farming",
-      "Processing and sharing information",
-      "Cooking",
-      "Clothing"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "Processing and sharing information",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 3,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which of the following is an ICT tool?",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "Broom",
-      "Computer",
-      "Hammer",
-      "Basket"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "Computer",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 4,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "The Internet is an example of:",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "ICT resource",
-      "Furniture",
-      "Transport system",
-      "None"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "ICT resource",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 5,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "ICT helps in:",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "Spreading diseases",
+      "Cooking with firewood",
       "Communication",
-      "Destroying data",
-      "Eating food"
+      "Hunting animals",
+      "Fetching water"
     ],
     correctAnswer: "Communication",
     marks: 1
@@ -75,770 +75,770 @@ export const ictQuestions: Question[] = [
     id: 6,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which device is used to connect to the internet?",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "Mouse",
-      "Modem",
-      "Keyboard",
-      "Printer"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "Modem",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 7,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Phones used for calling and browsing are called:",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "Smartphones",
-      "Typewriters",
-      "Calculators",
-      "Televisions"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "Smartphones",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 8,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Sending messages through email is part of:",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "ICT communication",
-      "Farming",
-      "Cooking",
-      "Sports"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "ICT communication",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 9,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "ICT helps in education by:",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "Making learning easier",
-      "Removing teachers",
-      "Stopping communication",
-      "None"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "Making learning easier",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 10,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which is NOT an ICT device?",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "Laptop",
-      "Tablet",
-      "Refrigerator",
-      "Smartphone"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "Refrigerator",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 11,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "ICT helps in storing information in:",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "Notebooks only",
-      "Digital devices",
-      "Shoes",
-      "Bags"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "Digital devices",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 12,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Telecommunication means:",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "Communication over a distance",
-      "Communication in person only",
-      "Playing games",
-      "None"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "Communication over a distance",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 13,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which is the brain of the computer?",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "CPU",
-      "Mouse",
-      "Keyboard",
-      "Monitor"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "CPU",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 14,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which part looks like a TV screen?",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "Monitor",
-      "Mouse",
-      "CPU",
-      "Keyboard"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "Monitor",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 15,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which part allows you to type letters and numbers?",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "Keyboard",
-      "Monitor",
-      "Speaker",
-      "CPU"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "Keyboard",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 16,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which part is used to control the pointer on the screen?",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "Mouse",
-      "Monitor",
-      "Printer",
-      "Scanner"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "Mouse",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 17,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "The part that prints work on paper is called:",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "Printer",
-      "Monitor",
-      "CPU",
-      "Mouse"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "Printer",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 18,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which part stores data permanently?",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "Hard disk",
-      "RAM",
-      "Mouse",
-      "Monitor"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "Hard disk",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 19,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Speakers are used for:",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "Producing sound",
-      "Showing pictures",
-      "Typing text",
-      "Printing documents"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "Producing sound",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 20,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "A device used to scan pictures into the computer is:",
+    question: "One major use of Information Technology in everyday life is ______.",
     options: [
-      "Scanner",
-      "Speaker",
-      "CPU",
-      "Mouse"
+      "Cooking with firewood",
+      "Communication",
+      "Hunting animals",
+      "Fetching water"
     ],
-    correctAnswer: "Scanner",
+    correctAnswer: "Communication",
     marks: 1
   },
   {
     id: 21,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which part processes information?",
+    question: "Information transmission refers to the ______.",
     options: [
-      "CPU",
-      "Keyboard",
-      "Printer",
-      "Speaker"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "CPU",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 22,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "A computer part that holds the main components is:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "System unit",
-      "Mouse pad",
-      "Speaker",
-      "Printer"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "System unit",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 23,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which shows the output visually?",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Monitor",
-      "Mouse",
-      "CPU",
-      "Scanner"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Monitor",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 24,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "The device you click to select items on the screen:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Mouse",
-      "Keyboard",
-      "Printer",
-      "Speaker"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Mouse",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 25,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "The function of the keyboard is to:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Type data",
-      "Show images",
-      "Print documents",
-      "Play music"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Type data",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 26,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "The function of the CPU is to:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Process data",
-      "Display text",
-      "Type letters",
-      "Speak sound"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Process data",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 27,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "The function of the monitor is to:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Display output",
-      "Scan documents",
-      "Store information",
-      "Play sound"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Display output",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 28,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "The primary function of the mouse is to:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Point and click",
-      "Print pages",
-      "Store files",
-      "Display videos"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Point and click",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 29,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "The function of speakers is to:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Produce sound",
-      "Type text",
-      "Scan pictures",
-      "Save data"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Produce sound",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 30,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "The function of the printer is:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Produce hard copies",
-      "Show output on screen",
-      "Store data permanently",
-      "Increase speed"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Produce hard copies",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 31,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "RAM is mainly used for:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Temporary storage",
-      "Printing",
-      "Display",
-      "Typing"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Temporary storage",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 32,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "A hard disk is used for:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Storing files permanently",
-      "Pointing",
-      "Displaying graphics",
-      "Playing sound"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Storing files permanently",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 33,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "The keyboard function key F1 usually opens:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Help menu",
-      "Calculator",
-      "Camera",
-      "Task manager"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Help menu",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 34,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "USB port is used for:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Connecting external devices",
-      "Printing",
-      "Typing",
-      "Playing music"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Connecting external devices",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 35,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "The function of a headset is to:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Allow listening and speaking",
-      "Type information",
-      "Display images",
-      "Scan pictures"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Allow listening and speaking",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 36,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "The webcam is used for:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Capturing video and images",
-      "Printing text",
-      "Playing audio",
-      "Pointing on screen"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Capturing video and images",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 37,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which is an input device?",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Keyboard",
-      "Printer",
-      "Monitor",
-      "Speaker"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Keyboard",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 38,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which is an output device?",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Monitor",
-      "Keyboard",
-      "Mouse",
-      "Scanner"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Monitor",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 39,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Printer belongs to:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Output devices",
-      "Input devices",
-      "Storage",
-      "Processing"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Output devices",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 40,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "The mouse is an example of:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Input device",
-      "Output device",
-      "Storage device",
-      "Display device"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Input device",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 41,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "A device that sends data into the computer:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Input device",
-      "Output device",
-      "Processing device",
-      "Storage device"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Input device",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 42,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "A device that receives data from the computer:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Output device",
-      "Input device",
-      "Storage device",
-      "Processing device"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Output device",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 43,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which of the following is an input device?",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Scanner",
-      "Speaker",
-      "Monitor",
-      "Printer"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Scanner",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 44,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which is BOTH input and output device?",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Touch screen",
-      "Keyboard",
-      "Printer",
-      "Mouse"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Touch screen",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 45,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which device helps you hear sound from the computer?",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Speaker",
-      "Keyboard",
-      "Scanner",
-      "Mouse"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Speaker",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 46,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which device shows visual output?",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Monitor",
-      "Mouse",
-      "Keyboard",
-      "Scanner"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Monitor",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 47,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "A microphone is used to:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Input sound",
-      "Output sound",
-      "Print sound",
-      "Display sound"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Input sound",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 48,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which device produces hard copy output?",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Printer",
-      "Speaker",
-      "Mouse",
-      "Keyboard"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Printer",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 49,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Touch typing means:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Typing without looking at the keyboard",
-      "Typing with only two fingers",
-      "Typing while touching the screen",
-      "Typing slowly"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Typing without looking at the keyboard",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 50,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "The correct typing posture requires:",
+    question: "Information transmission refers to the ______.",
     options: [
-      "Straight back",
-      "Bent back",
-      "Closed eyes",
-      "Crossed legs"
+      "movement of goods",
+      "transfer of information from one place to another",
+      "farming activity",
+      "cooking process"
     ],
-    correctAnswer: "Straight back",
+    correctAnswer: "transfer of information from one place to another",
     marks: 1
   },
   {
     id: 51,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "The home row keys include:",
+    question: "Which of the following is an example of a computer input device?",
     options: [
-      "ASDF and JKL;",
-      "QWER and POIU",
-      "ZXCV and MNBV",
-      "1234 and 5678"
+      "Monitor",
+      "Speaker",
+      "Keyboard",
+      "Printer"
     ],
-    correctAnswer: "ASDF and JKL;",
+    correctAnswer: "Keyboard",
     marks: 1
   },
   {
     id: 52,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Your thumbs rest on the:",
+    question: "Which of the following is an example of a computer input device?",
     options: [
-      "Space bar",
-      "Enter key",
-      "Shift key",
-      "Tab key"
+      "Monitor",
+      "Speaker",
+      "Keyboard",
+      "Printer"
     ],
-    correctAnswer: "Space bar",
+    correctAnswer: "Keyboard",
     marks: 1
   },
   {
     id: 53,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which finger presses the 'Enter' key?",
+    question: "Which of the following is an example of a computer input device?",
     options: [
-      "Right little finger",
-      "Left index finger",
-      "Right thumb",
-      "Left little finger"
+      "Monitor",
+      "Speaker",
+      "Keyboard",
+      "Printer"
     ],
-    correctAnswer: "Right little finger",
+    correctAnswer: "Keyboard",
     marks: 1
   },
   {
     id: 54,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which key is used to leave spaces between words?",
+    question: "Which of the following is an example of a computer input device?",
     options: [
-      "Space bar",
-      "Shift",
-      "Ctrl",
-      "Caps Lock"
+      "Monitor",
+      "Speaker",
+      "Keyboard",
+      "Printer"
     ],
-    correctAnswer: "Space bar",
+    correctAnswer: "Keyboard",
     marks: 1
   },
   {
     id: 55,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "The Caps Lock key is used to:",
+    question: "Which of the following is an example of a computer input device?",
     options: [
-      "Type capital letters",
-      "Delete text",
-      "Move cursor",
-      "Copy text"
+      "Monitor",
+      "Speaker",
+      "Keyboard",
+      "Printer"
     ],
-    correctAnswer: "Type capital letters",
+    correctAnswer: "Keyboard",
     marks: 1
   },
   {
     id: 56,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which finger presses the letter 'F'?",
+    question: "Which of the following is an example of a computer input device?",
     options: [
-      "Left index finger",
-      "Right index finger",
-      "Left little finger",
-      "Right ring finger"
+      "Monitor",
+      "Speaker",
+      "Keyboard",
+      "Printer"
     ],
-    correctAnswer: "Left index finger",
+    correctAnswer: "Keyboard",
     marks: 1
   },
   {
     id: 57,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Good typing speed improves:",
+    question: "Which of the following is an example of a computer input device?",
     options: [
-      "Work efficiency",
-      "Sleeping",
-      "Cooking",
-      "Driving"
+      "Monitor",
+      "Speaker",
+      "Keyboard",
+      "Printer"
     ],
-    correctAnswer: "Work efficiency",
+    correctAnswer: "Keyboard",
     marks: 1
   },
   {
     id: 58,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which key is used to correct mistakes?",
+    question: "Which of the following is an example of a computer input device?",
     options: [
-      "Backspace",
-      "Shift",
-      "Alt",
-      "Enter"
+      "Monitor",
+      "Speaker",
+      "Keyboard",
+      "Printer"
     ],
-    correctAnswer: "Backspace",
+    correctAnswer: "Keyboard",
     marks: 1
   },
   {
     id: 59,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "The keyboard is arranged in which layout mostly?",
+    question: "Which of the following is an example of a computer input device?",
     options: [
-      "QWERTY",
-      "ABCDEF",
-      "123ABC",
-      "Home row"
+      "Monitor",
+      "Speaker",
+      "Keyboard",
+      "Printer"
     ],
-    correctAnswer: "QWERTY",
+    correctAnswer: "Keyboard",
     marks: 1
   },
   {
     id: 60,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Touch typing helps to:",
+    question: "Which of the following is an example of a computer input device?",
     options: [
-      "Increase accuracy",
-      "Reduce productivity",
-      "Slow down work",
-      "Erase files"
+      "Monitor",
+      "Speaker",
+      "Keyboard",
+      "Printer"
     ],
-    correctAnswer: "Increase accuracy",
+    correctAnswer: "Keyboard",
     marks: 1
   }
 ];
