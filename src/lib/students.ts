@@ -6,7 +6,7 @@ export const students: Student[] = [
     name: 'Oyenola Paul', 
     class: 'JSS 1', 
     email: 'sodim@school.edu',
-    subjects: [ 'science', 'history', 'cca', 'crs', 'scs', 'phe', 'ict', 'business', 'vocational', 'civic-education', 'security-education']
+    subjects: [ 'science', 'history', 'cca', 'crs', 'scs', 'phe', 'ict', 'business', 'vocational', 'civic-education', 'security-education', 'agric' ]
   },
   
 { 
@@ -14,14 +14,14 @@ export const students: Student[] = [
     name: 'Wale Seun', 
     class: 'BASIC VI', 
     email: 'jsy@school.edu',
-    subjects: [ 'science', 'history', 'cca', 'crs', 'scs', 'phe', 'ict', 'business', 'vocational', 'civic-education', 'security-education']
+    subjects: [ 'science', 'history', 'cca', 'crs', 'scs', 'phe', 'ict', 'business', 'vocational', 'civic-education', 'security-education', 'agric' ]
   },
   { 
     id: 'MTH0028STU', 
     name: 'Kay Will', 
     class: 'JSS 2', 
     email: 'jsy@school.edu',
-    subjects: ['science', 'history', 'cca', 'crs', 'scs', 'phe', 'ict', 'business', 'vocational', 'civic-education', 'security-education']
+    subjects: ['science', 'history', 'cca', 'crs', 'scs', 'phe', 'ict', 'business', 'vocational', 'civic-education', 'security-education', 'agric']
   },
   
   // Add more students...

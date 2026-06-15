@@ -5,420 +5,420 @@ export const scienceQuestions: Question[] = [
     id: 1,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Matter is anything that",
+    question: "Energy is the ability to do ______.",
     options: [
-      "can run",
-      "has life",
-      "has mass and occupies space",
-      "can shine"
+      "sleep",
+      "work",
+      "eat",
+      "play"
     ],
-    correctAnswer: "has mass and occupies space",
+    correctAnswer: "work",
     marks: 1
   },
   {
     id: 2,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Which of the following is NOT matter?",
+    question: "Which of the following is a form of energy?",
     options: [
+      "Stone",
       "Water",
-      "Air",
-      "Light",
-      "Stone"
+      "Heat",
+      "Soil"
     ],
-    correctAnswer: "Light",
+    correctAnswer: "Heat",
     marks: 1
   },
   {
     id: 3,
     type: 'multiple-choice',
     subject: 'science',
-    question: "The three states of matter are",
+    question: "Energy cannot be ______.",
     options: [
-      "Solid, liquid and gas",
-      "Hard, soft and liquid",
-      "Solid, water and air",
-      "Gas, heat and liquid"
+      "used",
+      "changed",
+      "destroyed",
+      "transferred"
     ],
-    correctAnswer: "Solid, liquid and gas",
+    correctAnswer: "destroyed",
     marks: 1
   },
   {
     id: 4,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Which of these is a liquid?",
+    question: "The energy stored in food is called ______ energy.",
     options: [
-      "Book",
-      "Milk",
-      "Chair",
-      "Pencil"
+      "chemical",
+      "sound",
+      "light",
+      "heat"
     ],
-    correctAnswer: "Milk",
+    correctAnswer: "chemical",
     marks: 1
   },
   {
     id: 5,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Air is a",
+    question: "Which of these uses electrical energy?",
     options: [
-      "Solid",
-      "Liquid",
-      "Gas",
-      "Metal"
+      "Chair",
+      "Fan",
+      "Book",
+      "Spoon"
     ],
-    correctAnswer: "Gas",
+    correctAnswer: "Fan",
     marks: 1
   },
   {
     id: 6,
     type: 'multiple-choice',
     subject: 'science',
-    question: "An example of a solid is",
+    question: "Energy conversion means changing energy from one form to another.",
     options: [
-      "Oil",
-      "Oxygen",
-      "Iron",
-      "Smoke"
+      "True",
+      "False",
+      "Maybe",
+      "None"
     ],
-    correctAnswer: "Iron",
+    correctAnswer: "True",
     marks: 1
   },
   {
     id: 7,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Living things can",
+    question: "A generator converts mechanical energy to ______ energy.",
     options: [
-      "Grow",
-      "Shine",
-      "Break",
-      "Rust"
+      "heat",
+      "electrical",
+      "sound",
+      "light"
     ],
-    correctAnswer: "Grow",
+    correctAnswer: "electrical",
     marks: 1
   },
   {
     id: 8,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Which of the following is a living thing?",
+    question: "A torch converts chemical energy into ______ energy.",
     options: [
-      "Car",
-      "Goat",
-      "Table",
-      "Bottle"
+      "light",
+      "wind",
+      "water",
+      "soil"
     ],
-    correctAnswer: "Goat",
+    correctAnswer: "light",
     marks: 1
   },
   {
     id: 9,
     type: 'multiple-choice',
     subject: 'science',
-    question: "One characteristic of living things is",
+    question: "An electric iron converts electrical energy into ______ energy.",
     options: [
-      "Movement",
-      "Colour",
-      "Size",
-      "Shape"
+      "sound",
+      "heat",
+      "light",
+      "wind"
     ],
-    correctAnswer: "Movement",
+    correctAnswer: "heat",
     marks: 1
   },
   {
     id: 10,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Plants are living because they",
+    question: "Which appliance changes electrical energy to sound energy?",
     options: [
-      "Are green",
-      "Grow and reproduce",
-      "Are beautiful",
-      "Are tall"
+      "Radio",
+      "Table",
+      "Cup",
+      "Pen"
     ],
-    correctAnswer: "Grow and reproduce",
+    correctAnswer: "Radio",
     marks: 1
   },
   {
     id: 11,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Which of these is non-living?",
+    question: "Heat energy is also known as ______ energy.",
     options: [
-      "Fish",
-      "Bird",
-      "Rock",
-      "Tree"
+      "thermal",
+      "light",
+      "sound",
+      "wind"
     ],
-    correctAnswer: "Rock",
+    correctAnswer: "thermal",
     marks: 1
   },
   {
     id: 12,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Living things respond to",
+    question: "The main natural source of heat energy is the ______.",
     options: [
-      "Light and sound",
-      "Air only",
-      "Food only",
-      "Nothing"
+      "moon",
+      "star",
+      "sun",
+      "cloud"
     ],
-    correctAnswer: "Light and sound",
+    correctAnswer: "sun",
     marks: 1
   },
   {
     id: 13,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Energy is the ability to",
+    question: "Which of these produces heat energy?",
     options: [
-      "Sleep",
-      "Do work",
-      "Eat food",
-      "Sit down"
+      "Refrigerator",
+      "Stove",
+      "Book",
+      "Bucket"
     ],
-    correctAnswer: "Do work",
+    correctAnswer: "Stove",
     marks: 1
   },
   {
     id: 14,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Which of the following is a form of energy?",
+    question: "Heat flows from a ______ object to a colder object.",
     options: [
-      "Heat",
-      "Stone",
-      "Chair",
-      "Bottle"
+      "larger",
+      "warmer",
+      "smaller",
+      "heavier"
     ],
-    correctAnswer: "Heat",
+    correctAnswer: "warmer",
     marks: 1
   },
   {
     id: 15,
     type: 'multiple-choice',
     subject: 'science',
-    question: "The sun gives us",
+    question: "Boiling water is an example of using ______ energy.",
     options: [
-      "Water energy",
-      "Heat and light energy",
-      "Sound energy",
-      "Wind energy"
+      "sound",
+      "heat",
+      "light",
+      "magnetic"
     ],
-    correctAnswer: "Heat and light energy",
+    correctAnswer: "heat",
     marks: 1
   },
   {
     id: 16,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Electrical energy is used to",
+    question: "Light energy helps us to ______.",
     options: [
-      "Sweep",
-      "Power appliances",
-      "Grow plants",
-      "Break stones"
+      "hear",
+      "smell",
+      "see",
+      "taste"
     ],
-    correctAnswer: "Power appliances",
+    correctAnswer: "see",
     marks: 1
   },
   {
     id: 17,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Energy from food is called",
+    question: "The major source of natural light is the ______.",
     options: [
-      "Chemical energy",
-      "Solar energy",
-      "Wind energy",
-      "Nuclear energy"
+      "sun",
+      "moon",
+      "star",
+      "cloud"
     ],
-    correctAnswer: "Chemical energy",
+    correctAnswer: "sun",
     marks: 1
   },
   {
     id: 18,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Moving air produces",
+    question: "Which of these gives off light?",
     options: [
-      "Heat energy",
-      "Wind energy",
-      "Light energy",
-      "Sound energy"
+      "Mirror",
+      "Torch",
+      "Book",
+      "Chair"
     ],
-    correctAnswer: "Wind energy",
+    correctAnswer: "Torch",
     marks: 1
   },
   {
     id: 19,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Renewable energy is energy that",
+    question: "Light travels in a ______ line.",
     options: [
-      "Cannot be used again",
-      "Finishes quickly",
-      "Can be replaced naturally",
-      "Is very expensive"
+      "curved",
+      "zigzag",
+      "straight",
+      "round"
     ],
-    correctAnswer: "Can be replaced naturally",
+    correctAnswer: "straight",
     marks: 1
   },
   {
     id: 20,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Which of these is renewable?",
+    question: "The rainbow is formed by ______.",
     options: [
-      "Coal",
-      "Petroleum",
-      "Solar energy",
-      "Diesel"
+      "light",
+      "sound",
+      "heat",
+      "wind"
     ],
-    correctAnswer: "Solar energy",
+    correctAnswer: "light",
     marks: 1
   },
   {
     id: 21,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Solar energy comes from the",
+    question: "Sound is produced by ______.",
     options: [
-      "Moon",
-      "Earth",
-      "Sun",
-      "Wind"
+      "vibration",
+      "freezing",
+      "melting",
+      "floating"
     ],
-    correctAnswer: "Sun",
+    correctAnswer: "vibration",
     marks: 1
   },
   {
     id: 22,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Wind energy is produced by",
+    question: "We hear sound with our ______.",
     options: [
-      "Moving water",
-      "Moving air",
-      "Burning fuel",
-      "Electricity"
+      "eyes",
+      "ears",
+      "nose",
+      "tongue"
     ],
-    correctAnswer: "Moving air",
+    correctAnswer: "ears",
     marks: 1
   },
   {
     id: 23,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Which of these is non-renewable?",
+    question: "Which of these produces sound?",
     options: [
-      "Sunlight",
-      "Wind",
-      "Coal",
-      "Water"
+      "Bell",
+      "Stone",
+      "Leaf",
+      "Soil"
     ],
-    correctAnswer: "Coal",
+    correctAnswer: "Bell",
     marks: 1
   },
   {
     id: 24,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Petroleum is a",
+    question: "Sound cannot travel through a ______.",
     options: [
-      "Renewable resource",
-      "Non-renewable resource",
-      "Living thing",
-      "Gas only"
+      "solid",
+      "liquid",
+      "gas",
+      "vacuum"
     ],
-    correctAnswer: "Non-renewable resource",
+    correctAnswer: "vacuum",
     marks: 1
   },
   {
     id: 25,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Examples of fossil fuels include",
+    question: "Loud sound is called ______.",
     options: [
-      "Sun and wind",
-      "Coal and petroleum",
-      "Water and air",
-      "Soil and sand"
+      "noise",
+      "silence",
+      "light",
+      "heat"
     ],
-    correctAnswer: "Coal and petroleum",
+    correctAnswer: "noise",
     marks: 1
   },
   {
     id: 26,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Water used to produce electricity is called",
+    question: "A magnet attracts objects made of ______.",
     options: [
-      "Solar power",
-      "Wind power",
-      "Hydro power",
-      "Nuclear power"
+      "wood",
+      "plastic",
+      "iron",
+      "paper"
     ],
-    correctAnswer: "Hydro power",
+    correctAnswer: "iron",
     marks: 1
   },
   {
     id: 27,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Non-renewable energy sources",
+    question: "Magnetism is the force exerted by a ______.",
     options: [
-      "Can be replaced quickly",
-      "Cannot be replaced easily",
-      "Grow naturally",
-      "Are unlimited"
+      "fan",
+      "magnet",
+      "book",
+      "cup"
     ],
-    correctAnswer: "Cannot be replaced easily",
+    correctAnswer: "magnet",
     marks: 1
   },
   {
     id: 28,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Using renewable energy helps to",
+    question: "The ends of a magnet are called ______.",
     options: [
-      "Increase pollution",
-      "Reduce pollution",
-      "Destroy plants",
-      "Waste resources"
+      "poles",
+      "edges",
+      "corners",
+      "sides"
     ],
-    correctAnswer: "Reduce pollution",
+    correctAnswer: "poles",
     marks: 1
   },
   {
     id: 29,
     type: 'multiple-choice',
     subject: 'science',
-    question: "Which energy source is best for reducing air pollution?",
+    question: "Like poles of a magnet ______ each other.",
     options: [
-      "Coal",
-      "Petrol",
-      "Solar energy",
-      "Diesel"
+      "attract",
+      "pull",
+      "repel",
+      "hold"
     ],
-    correctAnswer: "Solar energy",
+    correctAnswer: "repel",
     marks: 1
   },
   {
     id: 30,
     type: 'multiple-choice',
     subject: 'science',
-    question: "The main difference between renewable and non-renewable energy is that renewable energy",
+    question: "Unlike poles of a magnet ______ each other.",
     options: [
-      "Is cheaper",
-      "Is always stronger",
-      "Can be naturally replaced",
-      "Is used only at night"
+      "repel",
+      "attract",
+      "separate",
+      "destroy"
     ],
-    correctAnswer: "Can be naturally replaced",
+    correctAnswer: "attract",
     marks: 1
   }
 ];
