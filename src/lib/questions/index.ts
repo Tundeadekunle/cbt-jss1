@@ -11,10 +11,13 @@ import { vocationalQuestions } from './vocation';
 import { civicEducationQuestions } from './civic';
 import { securityEducationQuestions } from './security';
 import { agriculturalScienceQuestions } from './agric';
+import {homeEconomicsQuestions} from './home';
 
 
 export const getQuestionsBySubject = (subject: Subject): Question[] => {
   switch (subject) {
+    case 'home-economics':  
+    return homeEconomicsQuestions;
     case 'agric':
       return agriculturalScienceQuestions;
     case 'history':
@@ -33,7 +36,6 @@ export const getQuestionsBySubject = (subject: Subject): Question[] => {
       return crsQuestions;
     case 'science':
       return scienceQuestions;
-      return ictQuestions;
       case 'vocational':
       return vocationalQuestions;
       case 'civic-education':
@@ -52,6 +54,8 @@ export const getExamDurationBySubject = (subject: Subject): number => {
 
 export const getSubjectDisplayName = (subject: Subject): string => {
   switch (subject) {
+    case 'home-economics':
+      return 'Home Economics';
     case 'agric':
       return 'Agricultural Science';
     case 'history':
@@ -80,5 +84,5 @@ export const getSubjectDisplayName = (subject: Subject): string => {
 };
 
 export const getAllSubjects = (): Subject[] => {
-  return ['history', 'cca', 'crs', 'science', 'business', 'scs', 'phe', 'ict', 'vocational', 'civic-education', 'security-education', 'agric'];
+  return ['history', 'cca', 'crs', 'science', 'business', 'scs', 'phe', 'ict', 'vocational', 'civic-education', 'security-education', 'agric', 'home-economics'];
 };

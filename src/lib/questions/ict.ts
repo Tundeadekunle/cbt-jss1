@@ -5,840 +5,840 @@ export const ictQuestions: Question[] = [
     id: 1,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "Information Technology (IT) refers to the use of ____ to process information.",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "stones",
+      "technology",
+      "trees",
+      "water"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "technology",
     marks: 1
   },
   {
     id: 2,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "Which of these is a modern means of information transmission?",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "Town crier",
+      "Smoke signal",
+      "Telephone",
+      "Beating drum"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "Telephone",
     marks: 1
   },
   {
     id: 3,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "The telephone is mainly used for ____.",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "cooking",
+      "communication",
+      "farming",
+      "drawing"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "communication",
     marks: 1
   },
   {
     id: 4,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "An ancient method of transmitting information is ____.",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "email",
+      "television",
+      "beating drums",
+      "internet"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "beating drums",
     marks: 1
   },
   {
     id: 5,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "A computer helps users to ____ information.",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "process",
+      "destroy",
+      "hide",
+      "bury"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "process",
     marks: 1
   },
   {
     id: 6,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "Which device can transmit information over long distances?",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "Radio",
+      "Spoon",
+      "Plate",
+      "Bucket"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "Radio",
     marks: 1
   },
   {
     id: 7,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "Beating drums was used in the past to ____.",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "send messages",
+      "wash clothes",
+      "bake food",
+      "build houses"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "send messages",
     marks: 1
   },
   {
     id: 8,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "The internet is an example of ____.",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "traditional technology",
+      "modern technology",
+      "local craft",
+      "transport"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "modern technology",
     marks: 1
   },
   {
     id: 9,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "A town crier communicated information by ____.",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "shouting announcements",
+      "sending emails",
+      "texting",
+      "printing"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "shouting announcements",
     marks: 1
   },
   {
     id: 10,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "Radio communication uses ____.",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "sound waves broadcast electronically",
+      "ropes",
+      "smoke",
+      "sticks"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "sound waves broadcast electronically",
     marks: 1
   },
   {
     id: 11,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "Information transmission means ____.",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "moving information from one place to another",
+      "eating food",
+      "building roads",
+      "planting crops"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "moving information from one place to another",
     marks: 1
   },
   {
     id: 12,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "Which of these is an IT device?",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "Computer",
+      "Cutlass",
+      "Hoe",
+      "Broom"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "Computer",
     marks: 1
   },
   {
     id: 13,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "Television is used to ____ information.",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "broadcast",
+      "bury",
+      "erase",
+      "lock"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "broadcast",
     marks: 1
   },
   {
     id: 14,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "Whistling was an ancient method of ____.",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "transport",
+      "communication",
+      "trading",
+      "fishing"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "communication",
     marks: 1
   },
   {
     id: 15,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "The full meaning of IT is ____.",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "Information Technology",
+      "Internet Technology",
+      "Internal Transfer",
+      "Information Trade"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "Information Technology",
     marks: 1
   },
   {
     id: 16,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "A printed newspaper is a means of ____.",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "information transmission",
+      "cooking",
+      "farming",
+      "weaving"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "information transmission",
     marks: 1
   },
   {
     id: 17,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "One benefit of IT is ____.",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "faster communication",
+      "slower learning",
+      "less information",
+      "darkness"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "faster communication",
     marks: 1
   },
   {
     id: 18,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "Fire lighting was used traditionally to ____.",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "signal information",
+      "repair cars",
+      "cook only",
+      "draw maps"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "signal information",
     marks: 1
   },
   {
     id: 19,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "Email is sent through the ____.",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "internet",
+      "river",
+      "road",
+      "farm"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "internet",
     marks: 1
   },
   {
     id: 20,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "One major use of Information Technology in everyday life is ______.",
+    question: "The person receiving a message is called the ____.",
     options: [
-      "Cooking with firewood",
-      "Communication",
-      "Hunting animals",
-      "Fetching water"
+      "receiver",
+      "sender",
+      "printer",
+      "caller"
     ],
-    correctAnswer: "Communication",
+    correctAnswer: "receiver",
     marks: 1
   },
   {
     id: 21,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "Which is not an ancient communication method?",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "Telephone",
+      "Whistling",
+      "Town crier",
+      "Drumming"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "Telephone",
     marks: 1
   },
   {
     id: 22,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "Information can be transmitted through ____.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "radio",
+      "television",
+      "telephone",
+      "all of the above"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "all of the above",
     marks: 1
   },
   {
     id: 23,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "The sender is the person who ____ a message.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "sends",
+      "receives",
+      "deletes",
+      "copies"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "sends",
     marks: 1
   },
   {
     id: 24,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "Mobile phones are examples of ____ devices.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "communication",
+      "farming",
+      "hunting",
+      "transport"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "communication",
     marks: 1
   },
   {
     id: 25,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "Drawing diagrams can help in ____.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "transmitting information",
+      "washing clothes",
+      "building walls",
+      "cooking"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "transmitting information",
     marks: 1
   },
   {
     id: 26,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "The internet allows people to communicate ____.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "quickly",
+      "never",
+      "yearly only",
+      "once"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "quickly",
     marks: 1
   },
   {
     id: 27,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "Which of these is a mass media tool?",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "Radio",
+      "Hoe",
+      "Rake",
+      "Wheelbarrow"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "Radio",
     marks: 1
   },
   {
     id: 28,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "Ancient communication methods were mostly ____.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "manual",
+      "digital",
+      "electronic",
+      "automated"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "manual",
     marks: 1
   },
   {
     id: 29,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "A television station sends information to many people through ____.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "broadcasting",
+      "digging",
+      "planting",
+      "carving"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "broadcasting",
     marks: 1
   },
   {
     id: 30,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "The telephone converts voice into ____ signals.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "electrical",
+      "wooden",
+      "stone",
+      "clay"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "electrical",
     marks: 1
   },
   {
     id: 31,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "A message is information that is ____.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "communicated",
+      "eaten",
+      "sold",
+      "hidden"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "communicated",
     marks: 1
   },
   {
     id: 32,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "One modern means of communication is ____.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "email",
+      "smoke",
+      "drum",
+      "gong"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "email",
     marks: 1
   },
   {
     id: 33,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "Which of these helps in online learning?",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "Computer",
+      "Mortar",
+      "Pestle",
+      "Basket"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "Computer",
     marks: 1
   },
   {
     id: 34,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "Information technology improves ____.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "daily activities",
+      "darkness",
+      "hunger",
+      "silence"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "daily activities",
     marks: 1
   },
   {
     id: 35,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "The radio is useful because it can ____ information.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "transmit",
+      "bury",
+      "paint",
+      "break"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "transmit",
     marks: 1
   },
   {
     id: 36,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "A town crier usually moves around the ____.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "community",
+      "ocean",
+      "airport",
+      "desert"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "community",
     marks: 1
   },
   {
     id: 37,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "The process of sharing information is called ____.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "communication",
+      "cultivation",
+      "migration",
+      "recreation"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "communication",
     marks: 1
   },
   {
     id: 38,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "Which of these is electronic communication?",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "Telephone",
+      "Drum",
+      "Whistle",
+      "Gong"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "Telephone",
     marks: 1
   },
   {
     id: 39,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "Modern communication is usually ____.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "faster",
+      "slower",
+      "impossible",
+      "silent"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "faster",
     marks: 1
   },
   {
     id: 40,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "A newspaper contains ____.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "information",
+      "fuel",
+      "cement",
+      "sand"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "information",
     marks: 1
   },
   {
     id: 41,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "Computers are used in schools for ____.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "learning",
+      "fishing",
+      "hunting",
+      "weaving"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "learning",
     marks: 1
   },
   {
     id: 42,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "Which device displays moving pictures and sound?",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "Television",
+      "Radio",
+      "Drum",
+      "Bell"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "Television",
     marks: 1
   },
   {
     id: 43,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "The internet connects many ____ together.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "computers",
+      "trees",
+      "animals",
+      "rivers"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "computers",
     marks: 1
   },
   {
     id: 44,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "Communication helps people to ____ ideas.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "share",
+      "bury",
+      "waste",
+      "hide"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "share",
     marks: 1
   },
   {
     id: 45,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "A radio presenter communicates with listeners through ____.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "broadcasting",
+      "farming",
+      "mining",
+      "painting"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "broadcasting",
     marks: 1
   },
   {
     id: 46,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "Which is an example of information?",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "News report",
+      "Stone",
+      "Sand",
+      "Water"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "News report",
     marks: 1
   },
   {
     id: 47,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "A smartphone combines communication and ____ processing.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "information",
+      "wood",
+      "metal",
+      "cloth"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "information",
     marks: 1
   },
   {
     id: 48,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "Traditional methods were commonly used before ____ technology.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "modern",
+      "ancient",
+      "local",
+      "village"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "modern",
     marks: 1
   },
   {
     id: 49,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "The main purpose of communication is to ____ messages.",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "exchange",
+      "burn",
+      "waste",
+      "lock"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "exchange",
     marks: 1
   },
   {
     id: 50,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Information transmission refers to the ______.",
+    question: "Which of these can access the internet?",
     options: [
-      "movement of goods",
-      "transfer of information from one place to another",
-      "farming activity",
-      "cooking process"
+      "Computer",
+      "Drum",
+      "Whistle",
+      "Gong"
     ],
-    correctAnswer: "transfer of information from one place to another",
+    correctAnswer: "Computer",
     marks: 1
   },
   {
     id: 51,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which of the following is an example of a computer input device?",
+    question: "Information transmission can occur between a sender and a ____.",
     options: [
-      "Monitor",
-      "Speaker",
-      "Keyboard",
-      "Printer"
+      "receiver",
+      "farmer",
+      "driver",
+      "painter"
     ],
-    correctAnswer: "Keyboard",
+    correctAnswer: "receiver",
     marks: 1
   },
   {
     id: 52,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which of the following is an example of a computer input device?",
+    question: "Telephones make communication more ____.",
     options: [
-      "Monitor",
-      "Speaker",
-      "Keyboard",
-      "Printer"
+      "convenient",
+      "difficult",
+      "impossible",
+      "rare"
     ],
-    correctAnswer: "Keyboard",
+    correctAnswer: "convenient",
     marks: 1
   },
   {
     id: 53,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which of the following is an example of a computer input device?",
+    question: "The earliest communication methods relied on ____.",
     options: [
-      "Monitor",
-      "Speaker",
-      "Keyboard",
-      "Printer"
+      "human effort",
+      "satellites",
+      "computers",
+      "fiber optics"
     ],
-    correctAnswer: "Keyboard",
+    correctAnswer: "human effort",
     marks: 1
   },
   {
     id: 54,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which of the following is an example of a computer input device?",
+    question: "A chart can be used to ____ information.",
     options: [
-      "Monitor",
-      "Speaker",
-      "Keyboard",
-      "Printer"
+      "present",
+      "destroy",
+      "erase",
+      "hide"
     ],
-    correctAnswer: "Keyboard",
+    correctAnswer: "present",
     marks: 1
   },
   {
     id: 55,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which of the following is an example of a computer input device?",
+    question: "Which medium provides both sound and pictures?",
     options: [
-      "Monitor",
-      "Speaker",
-      "Keyboard",
-      "Printer"
+      "Television",
+      "Drum",
+      "Bell",
+      "Gong"
     ],
-    correctAnswer: "Keyboard",
+    correctAnswer: "Television",
     marks: 1
   },
   {
     id: 56,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which of the following is an example of a computer input device?",
+    question: "IT is important because it helps people access ____.",
     options: [
-      "Monitor",
-      "Speaker",
-      "Keyboard",
-      "Printer"
+      "information",
+      "stones",
+      "sand",
+      "dust"
     ],
-    correctAnswer: "Keyboard",
+    correctAnswer: "information",
     marks: 1
   },
   {
     id: 57,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which of the following is an example of a computer input device?",
+    question: "The internet can be used for ____.",
     options: [
-      "Monitor",
-      "Speaker",
-      "Keyboard",
-      "Printer"
+      "research",
+      "communication",
+      "learning",
+      "all of the above"
     ],
-    correctAnswer: "Keyboard",
+    correctAnswer: "all of the above",
     marks: 1
   },
   {
     id: 58,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which of the following is an example of a computer input device?",
+    question: "A receiver must first ____ the message.",
     options: [
-      "Monitor",
-      "Speaker",
-      "Keyboard",
-      "Printer"
+      "get",
+      "burn",
+      "bury",
+      "draw"
     ],
-    correctAnswer: "Keyboard",
+    correctAnswer: "get",
     marks: 1
   },
   {
     id: 59,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which of the following is an example of a computer input device?",
+    question: "Radio and television are examples of ____ media.",
     options: [
-      "Monitor",
-      "Speaker",
-      "Keyboard",
-      "Printer"
+      "electronic",
+      "ancient",
+      "manual",
+      "traditional"
     ],
-    correctAnswer: "Keyboard",
+    correctAnswer: "electronic",
     marks: 1
   },
   {
     id: 60,
     type: 'multiple-choice',
     subject: 'ict',
-    question: "Which of the following is an example of a computer input device?",
+    question: "Information technology is used in everyday ____.",
     options: [
-      "Monitor",
-      "Speaker",
-      "Keyboard",
-      "Printer"
+      "life",
+      "sleep only",
+      "forests",
+      "caves"
     ],
-    correctAnswer: "Keyboard",
+    correctAnswer: "life",
     marks: 1
   }
 ];

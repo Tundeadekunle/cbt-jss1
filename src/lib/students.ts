@@ -6,22 +6,22 @@ export const students: Student[] = [
     name: 'Oyenola Paul', 
     class: 'JSS 1', 
     email: 'sodim@school.edu',
-    subjects: [ 'science', 'history', 'cca', 'crs', 'scs', 'phe', 'ict', 'business', 'vocational', 'civic-education', 'security-education', 'agric' ]
+    subjects: [ 'science', 'history', 'cca', 'crs', 'scs', 'phe', 'ict', 'business', 'vocational', 'civic-education', 'security-education', 'agric', 'home-economics' ]
   },
   
-{ 
+{
     id: 'MTH0027STU', 
     name: 'Wale Seun', 
     class: 'BASIC VI', 
     email: 'jsy@school.edu',
-    subjects: [ 'science', 'history', 'cca', 'crs', 'scs', 'phe', 'ict', 'business', 'vocational', 'civic-education', 'security-education', 'agric' ]
+    subjects: [ 'science', 'history', 'cca', 'crs', 'scs', 'phe', 'ict', 'business', 'vocational', 'civic-education', 'security-education', 'agric', 'home-economics' ]
   },
   { 
     id: 'MTH0028STU', 
     name: 'Kay Will', 
     class: 'JSS 2', 
     email: 'jsy@school.edu',
-    subjects: ['science', 'history', 'cca', 'crs', 'scs', 'phe', 'ict', 'business', 'vocational', 'civic-education', 'security-education', 'agric']
+    subjects: ['science', 'history', 'cca', 'crs', 'scs', 'phe', 'ict', 'business', 'vocational', 'civic-education', 'security-education', 'agric', 'home-economics']
   },
   
   // Add more students...
