@@ -1,425 +1,424 @@
 import { Question } from '@/types';
 
 export const businessQuestions: Question[] = [
-  // Section A: Multiple Choice Questions (30 Questions)
   {
     id: 1,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Production means ______.",
+    question: "Book-keeping is the process of ______.",
     options: [
       "buying goods",
-      "making goods and services",
-      "stealing goods",
-      "wasting goods"
+      "recording business transactions",
+      "selling goods",
+      "advertising goods"
     ],
-    correctAnswer: "making goods and services",
+    correctAnswer: "recording business transactions",
     marks: 1
   },
   {
     id: 2,
     type: 'multiple-choice',
     subject: 'business',
-    question: "The factors of production include land, labour, capital and ______.",
+    question: "One importance of book-keeping is that it helps to determine ______.",
     options: [
-      "money",
-      "entrepreneur",
-      "market",
-      "customer"
+      "weather condition",
+      "profit or loss",
+      "school fees",
+      "population"
     ],
-    correctAnswer: "entrepreneur",
+    correctAnswer: "profit or loss",
     marks: 1
   },
   {
     id: 3,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Land as a factor of production includes ______.",
+    question: "A good book-keeper must be ______.",
     options: [
-      "machines",
-      "natural resources",
-      "workers",
-      "money"
+      "dishonest",
+      "lazy",
+      "accurate",
+      "careless"
     ],
-    correctAnswer: "natural resources",
+    correctAnswer: "accurate",
     marks: 1
   },
   {
     id: 4,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Labour refers to ______.",
+    question: "Which of the following is a quality of a good book-keeper?",
     options: [
-      "natural resources",
-      "human effort",
-      "machines",
-      "buildings"
+      "Fraud",
+      "Honesty",
+      "Fighting",
+      "Noise making"
     ],
-    correctAnswer: "human effort",
+    correctAnswer: "Honesty",
     marks: 1
   },
   {
     id: 5,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Capital in production means ______.",
+    question: "Recording transactions daily is a ______.",
     options: [
-      "cash only",
-      "tools and machines",
-      "customers",
-      "market"
+      "game",
+      "punishment",
+      "book-keeping practice",
+      "law"
     ],
-    correctAnswer: "tools and machines",
+    correctAnswer: "book-keeping practice",
     marks: 1
   },
   {
     id: 6,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Production can be classified into ______ types.",
+    question: "Book-keeping helps to prevent ______.",
     options: [
-      "one",
-      "two",
-      "three",
-      "four"
+      "profit",
+      "fraud and errors",
+      "production",
+      "distribution"
     ],
-    correctAnswer: "three",
+    correctAnswer: "fraud and errors",
     marks: 1
   },
   {
     id: 7,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Creating goods for personal use is called ______ production.",
+    question: "A source document serves as ______ of a transaction.",
     options: [
-      "subsistence",
-      "commercial",
-      "indirect",
-      "mass"
+      "punishment",
+      "evidence",
+      "advertisement",
+      "salary"
     ],
-    correctAnswer: "subsistence",
+    correctAnswer: "evidence",
     marks: 1
   },
   {
     id: 8,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Manufacturing is an example of ______ production.",
+    question: "Which of the following is a source document?",
     options: [
-      "primary",
-      "secondary",
-      "tertiary",
-      "personal"
+      "Chalkboard",
+      "Receipt",
+      "Blackboard",
+      "Textbook"
     ],
-    correctAnswer: "secondary",
+    correctAnswer: "Receipt",
     marks: 1
   },
   {
     id: 9,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Occupation means ______.",
+    question: "A receipt is issued as evidence of ______.",
     options: [
-      "play",
-      "hobby",
-      "job or work",
-      "sport"
+      "payment received",
+      "borrowing",
+      "travelling",
+      "teaching"
     ],
-    correctAnswer: "job or work",
+    correctAnswer: "payment received",
     marks: 1
   },
   {
     id: 10,
     type: 'multiple-choice',
     subject: 'business',
-    question: "A doctor belongs to the ______ occupation.",
+    question: "An invoice is prepared by the ______.",
     options: [
-      "extractive",
-      "manufacturing",
-      "service",
-      "trading"
+      "buyer",
+      "seller",
+      "driver",
+      "teacher"
     ],
-    correctAnswer: "service",
+    correctAnswer: "seller",
     marks: 1
   },
   {
     id: 11,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Farming is an example of ______ occupation.",
+    question: "A cheque is a written order to a ______.",
     options: [
-      "commercial",
-      "extractive",
-      "professional",
-      "clerical"
+      "school",
+      "market",
+      "bank",
+      "hospital"
     ],
-    correctAnswer: "extractive",
+    correctAnswer: "bank",
     marks: 1
   },
   {
     id: 12,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Trading involves ______.",
+    question: "Which of these is NOT a source document?",
     options: [
-      "producing goods",
-      "buying and selling goods",
-      "teaching",
-      "mining"
+      "Debit Note",
+      "Credit Note",
+      "Receipt",
+      "Blackboard"
     ],
-    correctAnswer: "buying and selling goods",
+    correctAnswer: "Blackboard",
     marks: 1
   },
   {
     id: 13,
     type: 'multiple-choice',
     subject: 'business',
-    question: "A teacher belongs to the ______ occupation.",
+    question: "Sales Journal records ______ sales.",
     options: [
-      "service",
-      "extractive",
-      "manufacturing",
-      "farming"
+      "cash",
+      "credit",
+      "hire purchase",
+      "installment"
     ],
-    correctAnswer: "service",
+    correctAnswer: "credit",
     marks: 1
   },
   {
     id: 14,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Mining is an example of ______ occupation.",
+    question: "Purchases Journal records ______ purchases.",
     options: [
-      "service",
-      "extractive",
-      "trading",
-      "clerical"
+      "cash",
+      "credit",
+      "free",
+      "loan"
     ],
-    correctAnswer: "extractive",
+    correctAnswer: "credit",
     marks: 1
   },
   {
     id: 15,
     type: 'multiple-choice',
     subject: 'business',
-    question: "People choose occupations based on their ______.",
+    question: "The Cash Book records ______.",
     options: [
-      "height",
-      "interest and skills",
-      "age only",
-      "friends"
+      "land",
+      "cash transactions",
+      "furniture",
+      "debtors"
     ],
-    correctAnswer: "interest and skills",
+    correctAnswer: "cash transactions",
     marks: 1
   },
   {
     id: 16,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Honesty in business means ______.",
+    question: "Double-entry means every transaction affects ______ accounts.",
     options: [
-      "cheating customers",
-      "telling lies",
-      "being truthful",
-      "overpricing goods"
+      "one",
+      "two",
+      "three",
+      "four"
     ],
-    correctAnswer: "being truthful",
+    correctAnswer: "two",
     marks: 1
   },
   {
     id: 17,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Giving correct change to customers shows ______.",
+    question: "For every debit entry there must be a corresponding ______ entry.",
     options: [
-      "dishonesty",
-      "pride",
-      "honesty",
-      "weakness"
+      "ledger",
+      "journal",
+      "credit",
+      "source"
     ],
-    correctAnswer: "honesty",
+    correctAnswer: "credit",
     marks: 1
   },
   {
     id: 18,
     type: 'multiple-choice',
     subject: 'business',
-    question: "One effect of dishonesty in business is loss of ______.",
+    question: "Assets are things ______ by a business.",
     options: [
-      "trust",
-      "profit",
-      "customers",
-      "all of the above"
+      "borrowed",
+      "sold",
+      "owned",
+      "hired"
     ],
-    correctAnswer: "all of the above",
+    correctAnswer: "owned",
     marks: 1
   },
   {
     id: 19,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Fair measurement in selling goods promotes ______.",
+    question: "Which of the following is an asset?",
     options: [
-      "cheating",
-      "trust",
-      "conflict",
-      "dishonesty"
+      "Loan",
+      "Cash",
+      "Creditor",
+      "Rent"
     ],
-    correctAnswer: "trust",
+    correctAnswer: "Cash",
     marks: 1
   },
   {
     id: 20,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Keeping proper records in business shows ______.",
+    question: "Liabilities are ______ owed by a business.",
     options: [
-      "laziness",
-      "responsibility",
-      "dishonesty",
-      "weakness"
+      "assets",
+      "profits",
+      "debts",
+      "losses"
     ],
-    correctAnswer: "responsibility",
+    correctAnswer: "debts",
     marks: 1
   },
   {
     id: 21,
     type: 'multiple-choice',
     subject: 'business',
-    question: "A dishonest trader may lose his ______.",
+    question: "Which of the following is a liability?",
     options: [
-      "friends",
-      "customers",
-      "pen",
-      "house"
+      "Furniture",
+      "Building",
+      "Bank Loan",
+      "Cash"
     ],
-    correctAnswer: "customers",
+    correctAnswer: "Bank Loan",
     marks: 1
   },
   {
     id: 22,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Selling expired goods is an act of ______.",
+    question: "Expenses are costs incurred in ______ a business.",
     options: [
-      "honesty",
-      "fairness",
-      "dishonesty",
-      "kindness"
+      "closing",
+      "running",
+      "buying",
+      "borrowing"
     ],
-    correctAnswer: "dishonesty",
+    correctAnswer: "running",
     marks: 1
   },
   {
     id: 23,
     type: 'multiple-choice',
     subject: 'business',
-    question: "An entrepreneur is a person who ______.",
+    question: "Rent is an example of ______.",
     options: [
-      "buys only",
-      "sells only",
-      "organizes and manages a business",
-      "works for government"
+      "liability",
+      "asset",
+      "expense",
+      "capital"
     ],
-    correctAnswer: "organizes and manages a business",
+    correctAnswer: "expense",
     marks: 1
   },
   {
     id: 24,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Entrepreneurship involves taking ______.",
+    question: "A ledger is the principal book containing all ______.",
     options: [
-      "risk",
-      "rest",
-      "sleep",
-      "holiday"
+      "accounts",
+      "schools",
+      "roads",
+      "maps"
     ],
-    correctAnswer: "risk",
+    correctAnswer: "accounts",
     marks: 1
   },
   {
     id: 25,
     type: 'multiple-choice',
     subject: 'business',
-    question: "One quality of a good entrepreneur is ______.",
+    question: "The format of a sales journal includes ______.",
     options: [
-      "laziness",
-      "creativity",
-      "fear",
-      "anger"
+      "weather",
+      "date",
+      "map",
+      "diagram"
     ],
-    correctAnswer: "creativity",
+    correctAnswer: "date",
     marks: 1
   },
   {
     id: 26,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Capital for starting a business can come from ______.",
+    question: "Salaries belong to ______ account.",
     options: [
-      "savings",
-      "loans",
-      "family support",
-      "all of the above"
+      "Personal",
+      "Real",
+      "Nominal",
+      "Capital"
     ],
-    correctAnswer: "all of the above",
+    correctAnswer: "Nominal",
     marks: 1
   },
   {
     id: 27,
     type: 'multiple-choice',
     subject: 'business',
-    question: "A small business owner is also called a ______.",
+    question: "Caps Lock is used for typing in ______ letters.",
     options: [
-      "manager",
-      "entrepreneur",
-      "customer",
-      "producer only"
+      "small",
+      "coloured",
+      "capital",
+      "cursive"
     ],
-    correctAnswer: "entrepreneur",
+    correctAnswer: "capital",
     marks: 1
   },
   {
     id: 28,
     type: 'multiple-choice',
     subject: 'business',
-    question: "One aim of entrepreneurship is to make ______.",
+    question: "Which punctuation mark is used at the end of a question?",
     options: [
-      "loss",
-      "profit",
-      "waste",
-      "debt"
+      "Full stop",
+      "Comma",
+      "Question mark",
+      "Colon"
     ],
-    correctAnswer: "profit",
+    correctAnswer: "Question mark",
     marks: 1
   },
   {
     id: 29,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Identifying business opportunities requires ______.",
+    question: "\"Dr.\" is the short form of ______.",
     options: [
-      "observation",
-      "carelessness",
-      "laziness",
-      "anger"
+      "Driver",
+      "Doctor",
+      "Director",
+      "Draft"
     ],
-    correctAnswer: "observation",
+    correctAnswer: "Doctor",
     marks: 1
   },
   {
     id: 30,
     type: 'multiple-choice',
     subject: 'business',
-    question: "Entrepreneurship helps to reduce ______.",
+    question: "Ctrl, Alt and Shift are examples of ______ keys.",
     options: [
-      "employment",
-      "poverty",
-      "skills",
-      "income"
+      "number",
+      "punctuation",
+      "control",
+      "alphabet"
     ],
-    correctAnswer: "poverty",
+    correctAnswer: "control",
     marks: 1
   }
 ];
